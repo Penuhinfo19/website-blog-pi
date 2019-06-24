@@ -29,4 +29,4 @@ Namun untuk mencari penyedia layanan pembuat animasi di Indonesia saat ini tidak
 
 ![fastwork.id](https://i.imgur.com/rgUwYeQ.png?background=black)
 
-Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lepas. Untuk mencari para pembuat animasi, Anda bisa mengunjungi halaman [jasa pembuatan animasi bergerak ini](https://fastwork.id/3d-animation) untuk keperluan komersial maupun nonkomersial. Fastwork membuka kesempatan untuk terhubung dengan animator-animator lepas yang siap bekerja untuk mereka, untuk memenuhi keperluan pembuatan berbagai keperluan industri maupun personal.
+Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lepas. Fastwork membuka kesempatan untuk terhubung dengan animator-animator lepas siap kerja, untuk memenuhi keperluan pembuatan berbagai keperluan industri maupun personal. Untuk mencari para pembuat animasi, Anda bisa mengunjungi halaman [jasa pembuatan animasi bergerak ini](https://fastwork.id/3d-animation) untuk keperluan komersial maupun nonkomersial. 
