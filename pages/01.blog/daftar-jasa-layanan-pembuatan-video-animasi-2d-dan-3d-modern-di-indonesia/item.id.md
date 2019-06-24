@@ -15,6 +15,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+body_classes: 'header-animated header-dark header-transparent'
 header_image_alt_text: 'Metal type'
 header_image_credit: Unsplash
 header_image_creditlink: 'https://unsplash.com/'
