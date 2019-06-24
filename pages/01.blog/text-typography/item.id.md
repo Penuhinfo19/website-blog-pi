@@ -19,7 +19,7 @@ feed:
     limit: 10
 ---
 
-![Animasi](https://media.giphy.com/media/iFgl43tZznlVgwOTEM/giphy.gif? "Contoh Animasi 3D Produksi Artner-CG")
+![Animasi](https://media.giphy.com/media/iFgl43tZznlVgwOTEM/giphy.gif?resize=235,400 "Contoh Animasi 3D Produksi Artner-CG")
 
 Di Indonesia, jasa pembuat animasi 2D dan 3D sudah mulai menunjukkan tanda-tanda makin menjamur. Sesuai dengan perkembangan tekhnologi saat ini, produksi animasi banyak dicari oleh para pembuat iklan, pembuat film, pembuat game edukasi, pembuat aplikasi, pembuat video live-action, presentasi, dan sebagainya.
 
