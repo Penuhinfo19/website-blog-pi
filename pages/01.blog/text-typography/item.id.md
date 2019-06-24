@@ -1,5 +1,6 @@
 ---
 title: 'Daftar Jasa Layanan Pembuatan Video Animasi 2D dan 3D Modern di Indonesia'
+media_order: spine_sample_05_up_down.gif
 published: false
 date: '13:34 07/19/2018'
 taxonomy:
