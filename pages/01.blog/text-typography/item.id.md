@@ -25,4 +25,6 @@ Di Indonesia, jasa pembuat animasi 2D dan 3D sudah mulai menunjukkan tanda-tanda
 
 Namun untuk mencari penyedia layanan pembuat animasi di Indonesia saat ini tidak begitu mudah, apalagi jika tuntutan Anda adalah penggunaan tekhnologi terbaru seperti pembuat animasi 3DCG. Anda bisa mencarinya di Google dengan mengetik kata kunci "pembuat animasi". Tapi untuk membantu Anda, saya ingin menghimpun berbagai jasa dan layanan pembuatan animasi gambar dan video 2D dan 3D yang ada di Indonesia yang paling modern karena menyediakan jasa pembuatan animasi dengan tekhnologi terbaru. Kita simak yuuks...
 
-## 1. 
+## 1. [FASTWORK](https://fastwork.id/3d-animation)
+
+![fastwork.id](https://i.imgur.com/rgUwYeQ.png)
