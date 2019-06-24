@@ -10,6 +10,12 @@ taxonomy:
         - Tekhnologi
         - Usaha
         - Bisnis
+external_links:
+    process: true
+    title: true
+    no_follow: true
+    target: _blank
+    mode: active
 header_image_alt_text: 'Metal type'
 header_image_credit: Unsplash
 header_image_creditlink: 'https://unsplash.com/'
