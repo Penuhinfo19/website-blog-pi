@@ -66,3 +66,19 @@ Enspire Studio adalah studio animasi 3D yang berbasis di Jakarta, Indonesia, did
 Berikut ini adalah contoh video project yang diproduksi oleh Enspire Studio :
 
 [plugin:youtube]()
+
+## 3. [BASE](https://www.base-indonesia.com/)
+
+![](https://i.imgur.com/trpleX8.png)
+
+BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional yang berlokasi di Bali, Indonesia. Layanan pembuatan animasi BASE ini memiliki fokus pada layanan produksi, penciptaan IP, dan layanan konsultasi pendidikan dan telah banyak mengeluarkan produk animasinya seperti :
+
+* Sonic Boom (untuk Technicolor di AS)
+* Tomonews (atau Next Animation Studio Taiwan)
+* Luna Petunia (untuk Brain Power Studio di Kanada)
+* Vampirina (untuk Brown Bag Films Ireland)
+* Petualangan Si Unyil (untuk PFN Indonesia)
+
+Beberapa contoh video project yang diproduksi oleh BASE :
+
+[plugin:youtube]()
