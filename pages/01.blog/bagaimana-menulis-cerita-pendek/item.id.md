@@ -2,7 +2,7 @@
 title: 'Bagaimana Menulis Cerita Pendek'
 media_order: menuliscerpen.png
 published: true
-date: '21:56 23-06-2019'
+date: '23-06-2019 21:56'
 metadata:
     '''Menulis''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Cerpen''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -13,7 +13,7 @@ taxonomy:
         - Pendidikan
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /bagaimana-menulis-cerita-pendek/menuliscerpen.png
+header_image_file: /blog/bagaimana-menulis-cerita-pendek/menuliscerpen.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'Menulis Cerpen'
