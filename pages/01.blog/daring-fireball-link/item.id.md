@@ -2,7 +2,7 @@
 title: 'Google Dorks 2019'
 media_order: dork2019.png
 published: true
-date: '13:34 07/10/2018'
+date: '10-07-2018 13:34'
 metadata:
     '''Google''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Dork''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -20,7 +20,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /daring-fireball-link/dork2019.png
+header_image_file: /blog/daring-fireball-link/dork2019.png
 header_image_alt_text: 'Google Dork 2019 Real'
 header_image_credit: 'by Endi Hariadi'
 hide_from_post_list: false
