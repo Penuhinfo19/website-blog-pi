@@ -1,6 +1,6 @@
 ---
-title: 'Example Presentation'
-date: '14:55 08/23/2019'
+title: 'Informasi Hari Ini'
+date: '23-08-2019 14:55'
 taxonomy:
     category:
         - blog
@@ -14,5 +14,7 @@ feed:
 author: 'Tasha Maxwell'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 ---
+
+> Halaman ini adalah halaman motivasi. Yups!!, Hidup Itu Perlu Motivasi.
 
 [presentation="presentations/placeholder-slides"]
