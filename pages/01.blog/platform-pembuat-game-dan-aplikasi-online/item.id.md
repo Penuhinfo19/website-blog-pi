@@ -2,7 +2,7 @@
 title: 'Platform Pembuat Game dan Aplikasi Online'''
 media_order: game-header.png
 published: true
-date: '22:13 23-06-2019'
+date: '23-06-2019 22:13'
 metadata:
     '''App Maker''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Android Developer''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -13,8 +13,8 @@ taxonomy:
     category:
         - blog
     tag:
-        - Internet
         - Tekhnologi
+        - Internet
 external_links:
     process: true
     title: true
@@ -23,7 +23,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /platform-pembuat-game-dan-aplikasi-online/game-header.png
+header_image_file: /blog/platform-pembuat-game-dan-aplikasi-online/game-header.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'PLatform Pembuat Game & Aplikasi'
