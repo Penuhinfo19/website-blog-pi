@@ -2,7 +2,7 @@
 title: 'Daftar VPN Yang Diakui Publik Cracker dan Gratis'
 media_order: master-header-blog-900x250.png
 published: true
-date: '22:01 23-06-2019'
+date: '23-06-2019 22:01'
 metadata:
     '''VPN''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Internet Gratis''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -11,8 +11,8 @@ taxonomy:
     category:
         - blog
     tag:
-        - Internet
         - Tekhnologi
+        - Internet
 external_links:
     process: true
     title: true
@@ -21,7 +21,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /daftar-vpn-yang-diakui-publik-cracker-dan-gratis/master-header-blog-900x250.png
+header_image_file: /blog/daftar-vpn-yang-diakui-publik-cracker-dan-gratis/master-header-blog-900x250.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'VPN Terbaik Yang Diakui Publik Cracker'
