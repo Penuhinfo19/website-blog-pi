@@ -2,7 +2,7 @@
 title: 'Makanan Praktis Untuk Bekal Makan Siang Di Tempat Kerja'
 media_order: header-makanan-praktis.png
 published: true
-date: '22:09 23-06-2019'
+date: '23-06-2019 22:09'
 metadata:
     '''Masakan''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Makanan''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -20,7 +20,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /makanan-praktis-untuk-bekal-makan-siang-di-tempat-kerja/header-makanan-praktis.png
+header_image_file: /blog/makanan-praktis-untuk-bekal-makan-siang-di-tempat-kerja/header-makanan-praktis.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'Makanan Praktis Untuk Bekal'
