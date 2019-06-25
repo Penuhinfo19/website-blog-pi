@@ -8,8 +8,6 @@ visible: false
 ---
 
 ![Endi Hariadi](https://i.imgur.com/3qkyMfT.jpg)
-[center]
-<small>
+[center class="small"]
 Ini adalah saya, Endi Hariadi. Mohon maaf saya ingin dikenal tapi tidak ingin terkenal, karena saya hanya suka berbagi. Kali ini saya membuat blog untuk berbagi informasi yang pastinya akan bermanfaat bagi Anda.
-</small>
 [/center]
