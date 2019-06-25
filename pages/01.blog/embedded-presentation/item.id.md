@@ -15,6 +15,6 @@ author: 'Tasha Maxwell'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 ---
 
-> Halaman ini adalah halaman motivasi. Yups!!, Hidup Itu Perlu Motivasi.
+Halaman ini adalah halaman rilex. Yups!!, Hidup Itu Perlu Motivasi, Rilex, dan Cerdas!. Kita akan jadikan itu makanan otak kita hari ini!
 
 [presentation="presentations/placeholder-slides"]
