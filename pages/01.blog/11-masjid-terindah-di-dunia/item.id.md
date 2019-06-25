@@ -2,7 +2,7 @@
 title: '11 Masjid Terindah di Dunia'
 media_order: header-masjid.png
 published: true
-date: '20:51 23-06-2019'
+date: '23-06-2019 20:51'
 metadata:
     '''Masjid''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Indah''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -14,7 +14,7 @@ taxonomy:
         - Islam
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /11-masjid-terindah-di-dunia/header-masjid.png
+header_image_file: /blog/11-masjid-terindah-di-dunia/header-masjid.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: '11 Masjid Terindah Di Dunia'
