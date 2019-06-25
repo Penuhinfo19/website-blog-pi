@@ -49,7 +49,7 @@ Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lep
 
 ## 2. [ENSPIRESTUDIO](http://www.enspirestudio.com/)
 
-![plugin:youtube]https://youtu.be/NIY3_yVplFE()
+[plugin:youtube](https://youtu.be/NIY3_yVplFE)
 
 Enspire Studio adalah studio animasi 3D yang berbasis di Jakarta, Indonesia, didirikan oleh dua orang yang telah berkecimpung di industri CG selama bertahun-tahun. Endpire Studio ini menerima jasa pembuatan animasi antara lain :
 
