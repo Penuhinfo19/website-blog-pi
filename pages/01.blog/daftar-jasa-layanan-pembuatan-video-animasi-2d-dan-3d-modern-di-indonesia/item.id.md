@@ -82,6 +82,6 @@ BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional 
 * Vampirina (untuk Brown Bag Films Ireland)
 * Petualangan Si Unyil (untuk PFN Indonesia)
 
-Beberapa contoh video project yang diproduksi oleh BASE :
+Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film kartun 3D Si Unyil :
 
 [plugin:youtube]()
