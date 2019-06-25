@@ -17,3 +17,4 @@ hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 
 [center]Halaman ini adalah halaman rilex. Yups!!, Hidup Itu Perlu Motivasi, Rilex, dan Cerdas!. Kita akan jadikan itu makanan otak kita hari ini![/center]
 [presentation="presentations/placeholder-slides"]
+[presentation="/blog/embedded-presentation"]
