@@ -2,7 +2,7 @@
 title: '15 Alat Pemindai Vulnerabilitas Website Online Gratis'
 media_order: vulnerability.png
 published: true
-date: '21:17 23-06-2019'
+date: '23-06-2019 21:17'
 metadata:
     '''Hacking''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Internet''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -15,7 +15,7 @@ taxonomy:
         - Internet
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /15-alat-pemindai-vulnerabilitas-website-online-gratis/vulnerability.png
+header_image_file: /blog/15-alat-pemindai-vulnerabilitas-website-online-gratis/vulnerability.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: '15 Alat Pemindai Vulnerabilitas Website Online Gratis'
