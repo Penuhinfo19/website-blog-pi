@@ -20,7 +20,6 @@ hide_post_date: false
 hide_post_taxonomy: false
 continue_link_as_button: false
 hide_git_sync_repo_link: false
-git_sync_repo_link_text: GitHub
 feed:
     limit: 10
     description: 'Ini adalah situsblog yang didukung oleh GravCMS berlisensi GNU General Public License v3.0, dibuat oleh Endi Hariadi'
