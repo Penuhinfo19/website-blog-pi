@@ -28,7 +28,7 @@ body_classes: 'header-animated header-dark header-transparent'
         </div>
       </div>
     </div>     
- <div class="col-md-12 text-center">
+ <div class="col-md-12 text-center py-3">
     <small class="text-center">Contoh: example.com (bukan: https://example.com)</small>
 </div>
   </div>
