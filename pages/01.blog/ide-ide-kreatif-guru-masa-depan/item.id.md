@@ -2,7 +2,7 @@
 title: 'Ide-Ide Kreatif Guru Masa Depan'
 media_order: master-header-blog-900x250.png
 published: true
-date: '22:05 23-06-2019'
+date: '23-06-2019 22:05'
 metadata:
     '''Guru''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Belajar dan Mengajar''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -21,7 +21,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /ide-ide-kreatif-guru-masa-depan/master-header-blog-900x250.png
+header_image_file: /blog/ide-ide-kreatif-guru-masa-depan/master-header-blog-900x250.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'Ide Kreatif Guru Masa Depan'
