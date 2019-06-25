@@ -47,4 +47,4 @@ Tapi Anda tidak usah merasa "buntu" atau kehilangan jalan keluar!. Saya ingin An
 
 <script async src="//jsfiddle.net/EndiHariadi2/fs8trw5o/embed/result/dark/"></script>
 
-Untuk melihat data di atas secara lengkap, Anda bisa mengunjungi [halaman ini](https://www.exploit-db.com/google-hacking-database) yang mungkin hanya beberapa orang saja yang mau membocorkannya kepada Anda karena apapun alasannya. 
+Untuk melihat data di atas secara lengkap, Anda bisa mengunjungi [halaman ini](https://www.exploit-db.com/google-hacking-database) yang mungkin untuk beberapa orang yang tidak bertanggungjawab dapat menjadi referensi berbahaya. Tapi sekali lagi saya tidak bertanggung-jawab atas penggunaan ini untuk tindakan ilegal !.  
