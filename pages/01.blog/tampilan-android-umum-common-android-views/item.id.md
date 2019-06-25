@@ -2,7 +2,7 @@
 title: 'Tampilan Android Umum (Common Android Views)'
 media_order: G-developer.png
 published: true
-date: '23:59 23-06-2019'
+date: '23-06-2019 23:59'
 metadata:
     '''Developer''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Android Studio''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
@@ -21,7 +21,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
-header_image_file: /tampilan-android-umum-common-android-views/G-developer.png
+header_image_file: /blog/tampilan-android-umum-common-android-views/G-developer.png
 header_image_width: 900
 header_image_height: 300
 header_image_alt_text: 'Android Studio Guide'
