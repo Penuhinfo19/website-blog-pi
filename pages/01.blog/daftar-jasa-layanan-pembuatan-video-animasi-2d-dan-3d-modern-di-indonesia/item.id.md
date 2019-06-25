@@ -50,6 +50,8 @@ Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lep
 
 ![halaman jasa pembuat animasi fastwork.id](https://i.imgur.com/K14daPk.png)
 
+---
+
 ## 2. [ENSPIRESTUDIO](http://www.enspirestudio.com/)
 
 ![](https://i.imgur.com/y8KzlUl.png)
@@ -70,6 +72,8 @@ Berikut ini adalah contoh video project yang diproduksi oleh Enspire Studio :
 
 [plugin:youtube](https://youtu.be/ltw3d4snTxY)
 
+---
+
 ## 3. [BASE](https://www.base-indonesia.com/)
 
 ![](https://i.imgur.com/trpleX8.png)
@@ -81,6 +85,9 @@ BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional 
 * Luna Petunia (untuk Brain Power Studio di Kanada)
 * Vampirina (untuk Brown Bag Films Ireland)
 * Petualangan Si Unyil (untuk PFN Indonesia)
+
+![](https://i.imgur.com/AjC37Zu.jpg)
+![](https://i.imgur.com/umWeJeJ.jpg)
 
 Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film kartun 3D Si Unyil :
 
