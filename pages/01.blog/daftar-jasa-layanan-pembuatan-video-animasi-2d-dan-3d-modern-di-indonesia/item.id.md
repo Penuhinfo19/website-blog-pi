@@ -63,6 +63,6 @@ Enspire Studio adalah studio animasi 3D yang berbasis di Jakarta, Indonesia, did
 * Pembuatan 3D untuk Konten Interaktif
 * Layanan Alih Daya untuk Pemodelan, Tekstur dan Rendering 3D Berkualitas Tinggi
 
-Berikut ini adalah contoh video hasil produksi dari Enspire Studio :
+Berikut ini adalah contoh video project yang diproduksi oleh Enspire Studio :
 
-[plugin:youtube](https://youtu.be/NIY3_yVplFE)
+[plugin:youtube]()
