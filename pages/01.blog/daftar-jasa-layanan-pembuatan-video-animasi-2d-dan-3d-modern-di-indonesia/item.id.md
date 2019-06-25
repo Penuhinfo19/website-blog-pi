@@ -65,7 +65,7 @@ Enspire Studio adalah studio animasi 3D yang berbasis di Jakarta, Indonesia, did
 
 Berikut ini adalah contoh video project yang diproduksi oleh Enspire Studio :
 
-[plugin:youtube]()
+[plugin:youtube](https://youtu.be/ltw3d4snTxY)
 
 ## 3. [BASE](https://www.base-indonesia.com/)
 
