@@ -30,4 +30,4 @@ body_classes: 'header-animated header-dark header-transparent'
     </div>
   </div>
   
-  > Hanya masukkan alamat domainnya saja. Contoh: example.com (bukan: https://example.com)
+[small]Hanya masukkan alamat domainnya saja. Contoh: example.com (bukan: https://example.com)[/small]
