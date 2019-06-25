@@ -12,7 +12,6 @@ taxonomy:
     tag:
         - Resep
         - Masakan
-        - 'Tips dan Trik'
 external_links:
     process: true
     title: true

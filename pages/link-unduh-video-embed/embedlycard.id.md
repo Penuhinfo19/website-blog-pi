@@ -1,6 +1,8 @@
 ---
+title: 'Link Situs Unduh Video'
 display_embedly_card_title: false
 embedly_card_alignment: left
+published: true
 metadata:
     '''Download Video''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''
     '''Unduh''': '''Blog'', ''Penuhinfo'', ''penuhinfo.com'''

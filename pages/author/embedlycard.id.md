@@ -4,7 +4,7 @@ display_embedly_card_title: false
 embedly_card_alignment: left
 published: true
 date: '19:55 24-06-2019'
-visible: true
+visible: false
 ---
 
 ![Endi Hariadi](https://i.imgur.com/3qkyMfT.jpg)
