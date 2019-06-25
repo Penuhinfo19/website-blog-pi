@@ -29,5 +29,7 @@ body_classes: 'header-animated header-dark header-transparent'
       </div>
     </div>
   </div>
-  
-<small class="text-center">Hanya masukkan alamat domainnya saja. Contoh: example.com (bukan: https://example.com)</small>
+ 
+ <div class="col-md-12 text-center">
+    <small class="text-center">Hanya masukkan alamat domainnya saja. Contoh: example.com (bukan: https://example.com)</small>
+</div>
