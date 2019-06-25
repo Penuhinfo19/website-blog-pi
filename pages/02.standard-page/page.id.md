@@ -19,7 +19,7 @@ body_classes: 'header-animated header-dark header-transparent'
 <div class="py-5">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 text-center"><label>Masukkan alamat website :</label>
+        <div class="col-md-12 text-center"><label>Masukkan hanya alamat domain websitenya :</label>
           <form class="text-center" role="form" action="http://service.hideoxy.com/index.php" method="post" >
     <input type="text" name="url" class="form-control-large  border rounded" id="websiteURL" value=""  style="width: 300px;height:43px;margin-right:5px;
  color: rgb(80, 89, 108); box-shadow: none;border-color: rgba(48, 133, 238, 1);box-shadow: 5px 10px rgba(90, 158, 242, 0.26);" >
@@ -27,9 +27,8 @@ body_classes: 'header-animated header-dark header-transparent'
 		</form>
         </div>
       </div>
-    </div>
-  </div>
- 
+    </div>     
  <div class="col-md-12 text-center">
-    <small class="text-center">Hanya masukkan alamat domainnya saja. Contoh: example.com (bukan: https://example.com)</small>
+    <small class="text-center">Contoh: example.com (bukan: https://example.com)</small>
 </div>
+  </div>
