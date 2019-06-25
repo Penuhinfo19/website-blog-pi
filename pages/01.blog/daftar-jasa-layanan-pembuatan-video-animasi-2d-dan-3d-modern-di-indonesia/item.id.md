@@ -16,9 +16,12 @@ external_links:
     target: _blank
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
-header_image_alt_text: 'Metal type'
-header_image_credit: Unsplash
-header_image_creditlink: 'https://unsplash.com/'
+header_image: true
+header_image_file: /blog/daftar-jasa-layanan-pembuatan-video-animasi-2d-dan-3d-modern-di-indonesia/animasi.png
+header_image_width: 900
+header_image_height: 300
+header_image_alt_text: 'Jasa Pembuatan Animasi'
+header_image_credit: 'by Endi Hariadi'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
