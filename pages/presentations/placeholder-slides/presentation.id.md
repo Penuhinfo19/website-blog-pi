@@ -13,8 +13,6 @@ hide_title: false
 
 ---
 
-[.background-color: #FFFFFF]
-
 ![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
 
 ---
