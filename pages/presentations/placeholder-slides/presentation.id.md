@@ -4,14 +4,12 @@ hide_git_sync_repo_link: false
 hide_title: false
 ---
 
-[.text: alignment(center)]
-
-# CPT 363
+# MOTIVATION
 
 ### Placeholder Slides
 
-> “A work in progress. And the possibilities are endless.”
--- Elizabeth Eulberg
+> “Percayalah pada dirimu sendiri! Percayalah pada kemampuan Anda! Tanpa kepercayaan diri dan percaya kekuatan Anda sendiri, Anda tidak akan berhasil atau bahagia.”
+-- Norman Vincent Peale
 
 ---
 
