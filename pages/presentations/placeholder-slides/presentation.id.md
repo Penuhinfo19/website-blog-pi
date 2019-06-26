@@ -6,7 +6,7 @@ hide_title: false
 
 # MOTIVATION
 
-### Placeholder Slides
+### Dirimu Adalah Singa !
 
 > “Percayalah pada dirimu sendiri! Percayalah pada kemampuan Anda! Tanpa kepercayaan diri dan percaya kekuatan Anda sendiri, Anda tidak akan berhasil atau bahagia.”
 -- Norman Vincent Peale
