@@ -108,3 +108,11 @@ PT. Kumata Indonesia menyediakan layanan animasi satu atap mulai dari pembuatan 
 Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_) animasi 2D hasil karya dari PT. Kumata Indonesia :
 
 [plugin:youtube](https://youtu.be/Yv5ffZAtDJo)
+
+## 4. [AYENA-STUDIO](https://www.ayena-studio.com/)
+
+![ayena-studio](https://i.imgur.com/QQkA3Iw.png)
+
+Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memiliki fokus pada layanan desain animasi, berdiri pada Oktober 2011. Layanan ini merupakan bagian dari Asosiasi Industri Animasi Indonesia (AINAKI). Hasil pencarian informasi fisik dari layanan ini sayangnya penulis tidak bisa banyak gali. Namun sebuah situsweb Ayena-Studio memajang beberapa hasil karya animasi yang lumayan hebat. Ada desain 2D dan 3D terpajang di _landing-page_ situsweb mereka.
+
+![](https://www.ayena-studio.com/wp-content/uploads/2015/05/bandit.jpg)
