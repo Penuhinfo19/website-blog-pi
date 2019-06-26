@@ -46,7 +46,7 @@ hide_title: false
 ---
 
 # Saya akan berhasil !
-!!! **Bercerminlah dan katakan terhadap dirimu di cermin itu, bahwa :**
+!!! **Katakan kepada dirimu di depan cermin bahwa :**
 
 1. Saya bukanlah pecundang !, Saya adalah orang yang percaya diri ! 
 2. Saya mampu, karena saya memiliki kemampuan untuk mengubah dunia !   
