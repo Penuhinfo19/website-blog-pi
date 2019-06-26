@@ -35,7 +35,7 @@ hide_title: false
 
 # Anda Lemah ?
 
-### Anda harus tahu bahwa الله tidak menciptakan makhluk-Nya dengan keunikan masing-masing. Anda mungkin mengira semut itu lemah ? Tidak !, seekor semut tidaklah lemah, ia sanggup mengangkat benda yang lebih besar dari ukuran tubuhnya. Jadi jangan menilai dirimu sendiri lewat cermin yang buram !.
+#### Anda harus tahu bahwa الله tidak menciptakan makhluk-Nya dengan keunikan masing-masing. Anda mungkin mengira semut itu lemah ? Tidak !, seekor semut tidaklah lemah, ia sanggup mengangkat benda yang lebih besar dari ukuran tubuhnya. Jadi jangan menilai dirimu sendiri lewat cermin yang buram !.
 
 ---
 
