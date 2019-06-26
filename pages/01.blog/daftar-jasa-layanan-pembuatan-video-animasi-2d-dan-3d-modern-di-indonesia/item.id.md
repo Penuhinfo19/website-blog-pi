@@ -98,11 +98,12 @@ Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film
 ## 4. [KUMATA](https://www.kumata-studio.com/)
 
 ![kumata logo](https://i.imgur.com/FeeUaCl.png)
-![](https://i.imgur.com/ydrrScT.png)
 
 PT. Kumata Indonesia atau yang lebih dikenal sebagai Kumata Studio didirikan pada tahun 2006. PT. Kumata Indonesia adalah studio animasi dengan misi untuk membuat dan menghasilkan karya asli yang menekankan konten berkualitas tinggi yang menghibur pengguna melalui berbagai platform media. Semua ini dimungkinkan karena Kumata Studio memiliki 8 tahun pengalaman di industri kreatif dengan staf ahli yang profesional di bidang produksi animasi.
 
 PT. Kumata Indonesia menyediakan layanan animasi satu atap mulai dari pembuatan film panjang penuh, serial televisi, produk, iklan, profil perusahaan dan konten kreatif lainnya.
+
+![](https://i.imgur.com/ydrrScT.png)
 
 Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_) animasi 2D hasil karya dari PT. Kumata Indonesia :
 
