@@ -1,6 +1,6 @@
 ---
 title: 'Just Some Text Today'
-published: false
+published: true
 date: '23-06-2018 13:34'
 taxonomy:
     category:
