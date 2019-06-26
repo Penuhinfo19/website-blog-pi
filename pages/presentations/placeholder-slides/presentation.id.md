@@ -50,6 +50,7 @@ hide_title: false
 
 1. Saya bukanlah pecundang !, Saya adalah orang yang percaya diri ! 
 2. Saya mampu, karena saya memiliki kemampuan untuk mengubah dunia !   
-3. Jika seandainya saya tidak berhasil, paling tidak saya adalah orang yang mandiri dan orang lain akan tahu bahwa saya adalah orang yang berguna ! 
+
+> Jika seandainya saya tidak berhasil, paling tidak saya adalah orang yang mandiri dan orang lain akan tahu bahwa saya adalah orang yang memiliki potensi ! 
 
 ---
