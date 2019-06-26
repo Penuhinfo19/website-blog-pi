@@ -12,8 +12,8 @@ hide_title: false
 -- Norman Vincent Peale
 
 ---
-
-[presentation-iframe](https://imgur.com/kLk8wi1?)
+[style-color=green]
+![presentation-iframe](https://imgur.com/kLk8wi1)
 
 ---
 
