@@ -13,42 +13,41 @@ hide_title: false
 
 ---
 
-![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
+![fit](https://imgur.com/kLk8wi1 "Buat sesuatu terjadi. Kuatkan Dirimu dan Majulah sebagai Ksatria")
 
 ---
 
-[youtube]https://www.youtube.com/watch?v=Nj6x01wg2WA[/youtube]
+[youtube]https://youtu.be/BQ32yFZ7sa4[/youtube]
 
 ---
 
-# Topics to Explore
-1. Topic One  
-2. Topic Two   
-3. Topic Three  
+# Motivasi adalah keinginan untuk bertindak dan bergerak menuju suatu tujuan.
 
 ---
 
-# Placeholder Slides
+# Anda Kecil ?
 
-### Topic One
-
----
-
-# Placeholder Slides
-
-### Topic Two
+### Anda tidaklah kecil, dan jangan pernah merasa kecil dan tidak berarti. Bangunlah !, Buka Mata !, Dunia sekarang telah menyiapkan jalan bagi perjuanganmu !
 
 ---
 
-# Placeholder Slides
+# Anda Lemah ?
 
-### Topic Three
+### Anda harus tahu bahwa الله tidak menciptakan makhluk-Nya dengan keunikan masing-masing. Anda mungkin mengira semut itu lemah ? Tidak !, seekor semut tidaklah lemah, ia sanggup mengangkat benda yang lebih besar dari ukuran tubuhnya. Jadi jangan menilai dirimu sendiri lewat cermin yang buram !.
 
 ---
 
-# Summary
-1. Topic One  
-2. Topic Two   
-3. Topic Three  
+# Sekarang Anda Mulai Bangkit?
+
+### Jangan katakan Anda tidak sanggup Bangkit!. Berkatalah pada jiwa Ksatria-mu bahwa " Saya akan bangkit sedikit lagi, dan aku akan menginspirasi orang lain ! 
+
+---
+
+# Saya akan berhasil !
+!!! **Bercerminlah dan katakan terhadap dirimu di cermin itu, bahwa :**
+
+1. Saya bukanlah pecundang !, Saya adalah orang yang percaya diri ! 
+2. Saya mampu, karena saya memiliki kemampuan untuk mengubah dunia !   
+3. Jika seandainya saya tidak berhasil, paling tidak saya adalah orang yang mandiri dan orang lain akan tahu bahwa saya adalah orang yang berguna ! 
 
 ---
