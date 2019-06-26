@@ -92,3 +92,17 @@ BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional 
 Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film kartun 3D Si Unyil :
 
 [plugin:youtube](https://youtu.be/y4hy5r7zPpw)
+
+---
+
+## 4. [KUMATA](https://www.kumata-studio.com/)
+
+![kumata logo](https://i.imgur.com/FeeUaCl.png)
+
+PT. Kumata Indonesia atau yang lebih dikenal sebagai Kumata Studio didirikan pada tahun 2006. PT. Kumata Indonesia adalah studio animasi dengan misi untuk membuat dan menghasilkan karya asli yang menekankan konten berkualitas tinggi yang menghibur pengguna melalui berbagai platform media. Semua ini dimungkinkan karena Kumata Studio memiliki 8 tahun pengalaman di industri kreatif dengan staf ahli yang profesional di bidang produksi animasi.
+
+PT. Kumata Indonesia menyediakan layanan animasi satu atap mulai dari pembuatan film panjang penuh, serial televisi, produk, iklan, profil perusahaan dan konten kreatif lainnya.
+
+Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_) animasi 2D hasil karya dari PT. Kumata Indonesia :
+
+[plugin:youtube](https://youtu.be/Yv5ffZAtDJo)
