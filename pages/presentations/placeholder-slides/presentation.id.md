@@ -13,7 +13,7 @@ hide_title: false
 
 ---
 
-![](https://imgur.com/kLk8wi1)
+![](https://imgur.com/kLk8wi1?classes="presentation-iframe")
 
 ---
 
