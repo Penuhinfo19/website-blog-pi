@@ -1,6 +1,6 @@
 ---
 title: 'Focus and Blur'
-published: false
+published: true
 date: '21-06-2018 13:34'
 taxonomy:
     category:
