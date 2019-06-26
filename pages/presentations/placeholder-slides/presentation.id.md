@@ -13,8 +13,6 @@ hide_title: false
 
 ---
 
-> "Buat sesuatu terjadi. Kuatkan Dirimu dan Majulah sebagai Ksatria"
-
 ![](https://imgur.com/kLk8wi1)
 
 ---
@@ -24,6 +22,8 @@ hide_title: false
 ---
 
 # Motivasi adalah keinginan untuk bertindak dan bergerak menuju suatu tujuan.
+
+> "Buat sesuatu terjadi. Kuatkan Dirimu dan Majulah sebagai Ksatria"
 
 ---
 
