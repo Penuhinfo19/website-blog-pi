@@ -41,7 +41,7 @@ hide_title: false
 
 # Sekarang Anda Mulai Bangkit?
 
-### Jangan katakan Anda tidak sanggup Bangkit!. Berkatalah pada jiwa Ksatria-mu bahwa " Saya akan bangkit sedikit lagi, dan aku akan menginspirasi orang lain ! 
+#### Jangan katakan Anda tidak sanggup Bangkit!. Berkatalah pada jiwa Ksatria-mu bahwa " Saya akan bangkit sedikit lagi, dan aku akan menginspirasi orang lain ! 
 
 ---
 
