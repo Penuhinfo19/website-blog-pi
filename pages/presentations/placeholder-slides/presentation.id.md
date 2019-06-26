@@ -13,7 +13,9 @@ hide_title: false
 
 ---
 
-![](https://imgur.com/kLk8wi1 "Buat sesuatu terjadi. Kuatkan Dirimu dan Majulah sebagai Ksatria")
+> "Buat sesuatu terjadi. Kuatkan Dirimu dan Majulah sebagai Ksatria"
+
+![](https://imgur.com/kLk8wi1)
 
 ---
 
