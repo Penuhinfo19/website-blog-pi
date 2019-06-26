@@ -109,10 +109,16 @@ Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_)
 
 [plugin:youtube](https://youtu.be/Yv5ffZAtDJo)
 
+---
+
 ## 4. [AYENA-STUDIO](https://www.ayena-studio.com/)
 
 ![ayena-studio](https://i.imgur.com/QQkA3Iw.png)
 
-Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memiliki fokus pada layanan desain animasi, berdiri pada Oktober 2011. Layanan ini merupakan bagian dari Asosiasi Industri Animasi Indonesia (AINAKI). Hasil pencarian informasi fisik dari layanan ini sayangnya penulis tidak bisa banyak gali. Namun sebuah situsweb Ayena-Studio memajang beberapa hasil karya animasi yang lumayan hebat. Ada desain 2D dan 3D terpajang di _landing-page_ situsweb mereka.
+Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memiliki fokus pada layanan desain animasi 2D dan 3D. Mulai berdiri pada Oktober 2011 dan banyak berkolaborasi dengan komunitas kreatif Kota Cimahi. Layanan ini merupakan bagian dari Asosiasi Industri Animasi Indonesia (AINAKI). Tapi sayang sekali, hasil pencarian informasi fisik dari layanan ini tidak bisa banyak gali oleh penulis. Namun di halaman _landing-page_ situsweb Ayena-Studio memajang beberapa hasil karya animasi yang lumayan hebat. Ada desain 2D dan 3D terpajang.
 
-![](https://www.ayena-studio.com/wp-content/uploads/2015/05/bandit.jpg)
+![](https://i.imgur.com/FZOBDdd.png)
+
+Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi Ayena-Studio ;
+
+[plugin:youtube](https://youtu.be/GX9kTEpxjs0)
