@@ -45,7 +45,7 @@ Itu adalah pernyataan resmi dari pihak Microsoft yang bisa Anda baca langsung [d
 
 ![](https://i.imgur.com/JSqnoKA.png)
 
-Untuk mengunduh Movie Maker 10 ini Anda diharuskan memiliki akun microsoft. Jika Anda sudah punya akun microsoft dan terintegrasi dengan browser Anda ketika membuka alamat unduh Movi Maker 10, Anda akan melihat halaman seperti ini,
+Untuk mengunduh Movie Maker 10 ini Anda diharuskan memiliki akun microsoft. Jika Anda sudah punya akun microsoft dan terintegrasi dengan browser Anda ketika membuka alamat unduh Movie Maker 10, Anda akan melihat halaman seperti ini,
 
 ![](https://i.imgur.com/xaZ6uzr.png)
 
