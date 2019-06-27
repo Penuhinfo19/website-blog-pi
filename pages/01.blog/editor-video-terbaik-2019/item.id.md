@@ -27,10 +27,21 @@ feed:
 author: 'Tasha Maxwell'
 ---
 
-Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang-bangun video adalah sebuah alat yang memberikan solusi kepada penggunanya untuk 
+Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang-bangun video adalah sebuah alat manipulatif yang menyajikan menu pengubah dan penyusun video kepada penggunanya sehingga menjadi materi yang layak disajikan dan dapat dinikmati oleh orang lain. Pengeditan video digunakan untuk menyusun dan menyajikan semua informasi video, termasuk film dan acara televisi, iklan video, dan esai video yang merupakan bagian dari konten video yang, mirip seperti esai tertulis, kemajuan sebuah argumen.
 
 ===
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc.
+Dalam artikel ini penulis ingin menginfokan beberapa software editing video terbaik berdasarkan penilaian mesin pencarian google. Ada 14 software video editing diantaranya :
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio.
+### 1. Windows Movie Maker
+
+![Windows Movie Maker](https://i.imgur.com/sU3Pz1Q.png)
+
+Windows Movie Maker adalah perangkat lunak yang merupakan bagian dari Windows Essentials 2012. Fungsi utama program ini adalah untuk melakukan olah digital terhadap cuplikan-cuplikan gambar bergerak (film), misalnya untuk menambahkan animasi, efek visual ataupun sebuah redaksi singkat yang berhubungan dengan film yang sedang disunting. Software Windows Movie Maker ini dikembangkan oleh Microsoft. Saat ini (2019), Windows Movie Maker sudah tidak tersedia untuk didownload.
+
+> Windows Movie Maker, bagian dari Windows Essentials 2012, tidak lagi tersedia untuk diunduh. Situs web yang menawarkan unduhan Movie Maker gratis tidak menawarkan hal yang asli, dan unduhan tersebut mungkin mengandung malware, virus, atau biaya tersembunyi. Sebagai gantinya, cobalah membuat film dengan aplikasi Foto yang dilengkapi dengan Windows 10. Versi terbaru dari aplikasi Foto mencakup kemampuan untuk membuat dan mengedit video dengan musik, teks, gerakan, filter, dan efek 3D. Kunjungi Microsoft Store untuk lebih banyak aplikasi pembuatan dan pengeditan video.
+>
+
+Itu adalah pernyataan resmi dari pihak Microsoft yang bisa Anda baca langsung [di sini](https://support.microsoft.com/en-hk/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Tapi Anda tidak perlu kecewa, pihak Microsoft menyediakan gantinya yaitu Movie Maker 10 yang tersedia untuk PC dengan spesifikasi berikut : 
+
+![](https://i.imgur.com/JSqnoKA.png)
