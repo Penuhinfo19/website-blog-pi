@@ -3,6 +3,8 @@ title: Sidebar
 routable: false
 visible: false
 position: top
+tntsearch:
+    index: true
 ---
 
 [plugin-inject](/search)
