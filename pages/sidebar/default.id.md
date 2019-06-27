@@ -5,10 +5,12 @@ visible: false
 position: top
 ---
 
+[plugin-inject](/search)
+
 ## Author
 
 [plugin:page-inject](/author)
 
-[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]
+[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="800"]
 
 [plugin:page-inject](/embedlycard)
