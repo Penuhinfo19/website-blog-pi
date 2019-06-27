@@ -17,6 +17,7 @@ external_links:
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
+header_image_file: /blog/editor-video-terbaik-2019/video-editing-banner.png
 header_image_alt_text: 'Video Editing Software'
 header_image_credit: 'by Endi Hariadi'
 hide_from_post_list: false
