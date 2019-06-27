@@ -1,7 +1,7 @@
 ---
 title: 'Editor Video Terbaik 2019'
 published: true
-date: '27-06-2019 18:29'
+date: '27-06-2019 21:54'
 taxonomy:
     category:
         - blog
