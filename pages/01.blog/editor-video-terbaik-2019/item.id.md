@@ -27,7 +27,7 @@ feed:
 author: 'Tasha Maxwell'
 ---
 
-Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang video adalah sebuah alat yang bertanggung
+Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang-bangun video adalah sebuah alat yang memberikan solusi kepada penggunanya untuk 
 
 ===
 
