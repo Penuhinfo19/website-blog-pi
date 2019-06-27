@@ -17,7 +17,7 @@ hide_title: false
 
 ---
 
-[youtube]https://youtu.be/qswnrWx_HX4[/youtube]
+[plugin:youtube](https://youtu.be/qswnrWx_HX4)
 
 ---
 
