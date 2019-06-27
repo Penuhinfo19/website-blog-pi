@@ -50,3 +50,21 @@ Untuk mengunduh Movie Maker 10 ini Anda diharuskan memiliki akun microsoft. Jika
 ![](https://i.imgur.com/xaZ6uzr.png)
 
 dan Anda dapat langsung menginstallnya di PC. [**Unduh Movie Maker 10**](https://www.microsoft.com/en-us/p/movie-maker-10-tell-your-story/9mvfq4lmz6c9?lc=1033&activetab=pivot%3Aoverviewtab).
+
+---
+
+### 2. iMovie
+
+![iMovie](https://i.imgur.com/hKVGzBu.png)
+
+iMovie adalah aplikasi perangkat lunak pengeditan video yang dijual oleh Apple Inc. Bagi pengguna OS Windows ini agak mengecewakan karena iMovie hanya tersedia bagi pengguna Mac dan iOS ( iPhone, iPad, iPad Mini dan iPod Touch ) saja. [**Unduh iMovie**](https://www.apple.com/imovie/).
+
+---
+
+### 3. Adobe Premier Pro
+
+![](https://i.imgur.com/MGx7W3K.png)
+
+Adobe Premiere Pro adalah aplikasi editing video berbasis waktu yang dikembangkan oleh Adobe Systems dan diterbitkan sebagai bagian dari program lisensi Adobe Creative Cloud. Premiere Pro mendukung pengeditan video resolusi tinggi hingga 10.240 × 8.192 [10] resolusi , hingga 32-bit per warna saluran, baik dalam RGB dan YUV . Pengeditan tingkat sampel audio , dukungan plug-in audio VST , dan pencampuran suara surround 5.1 tersedia. Arsitektur plug-in Premiere Pro memungkinkannya untuk mengimpor dan mengekspor format di luar yang didukung oleh QuickTime atau DirectShow, mendukung beragam format file video dan audio serta codec pada MacOS dan Windows.
+
+Tapi ada kualitas tentu ada harga yang sesuai untuk itu. Adobe Premiere Pro tidak disajikan gratis namun ada versi percobaan selama satu minggu (7 hari) saja. Jika Anda ingin menikmati fitur yang luar biasa ini, sebaiknya Anda menyiapkan anggaran yang cukup untuk membelinya. Anda dapat hanya melihat-lihat saja [di sini](https://www.adobe.com/products/premiere) atau Unduh [Adobe Premier Pro versi Trial](https://www.adobe.com/products/premiere/free-trial-download.html#mini-plans-web-cta-premiere-pro-card).
