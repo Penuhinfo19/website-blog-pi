@@ -35,7 +35,7 @@ Dalam artikel ini penulis ingin menginfokan beberapa software editing video terb
 
 ### 1. Windows Movie Maker
 
-![Windows Movie Maker](https://i.imgur.com/sU3Pz1Q.png?1)
+![Windows Movie Maker](https://i.imgur.com/bHX3ms4.png "Windows Movie Maker")
 
 Windows Movie Maker adalah perangkat lunak yang merupakan bagian dari Windows Essentials 2012. Fungsi utama program ini adalah untuk melakukan olah digital terhadap cuplikan-cuplikan gambar bergerak (film), misalnya untuk menambahkan animasi, efek visual ataupun sebuah redaksi singkat yang berhubungan dengan film yang sedang disunting. Software Windows Movie Maker ini dikembangkan oleh Microsoft. Saat ini (2019), Windows Movie Maker sudah tidak tersedia untuk didownload.
 
