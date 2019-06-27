@@ -45,3 +45,9 @@ Windows Movie Maker adalah perangkat lunak yang merupakan bagian dari Windows Es
 Itu adalah pernyataan resmi dari pihak Microsoft yang bisa Anda baca langsung [di sini](https://support.microsoft.com/en-hk/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Tapi Anda tidak perlu kecewa, pihak Microsoft menyediakan gantinya yaitu Movie Maker 10 yang tersedia untuk PC dengan spesifikasi berikut : 
 
 ![](https://i.imgur.com/JSqnoKA.png)
+
+Untuk mengunduh Movie Maker 10 ini Anda diharuskan memiliki akun microsoft. Jika Anda sudah punya akun microsoft dan terintegrasi dengan browser Anda ketika membuka alamat unduh Movi Maker 10, Anda akan melihat halaman seperti ini,
+
+![](https://i.imgur.com/xaZ6uzr.png)
+
+dan Anda dapat langsung menginstallnya di PC. [**Unduh Movie Maker 10**](https://www.microsoft.com/en-us/p/movie-maker-10-tell-your-story/9mvfq4lmz6c9?lc=1033&activetab=pivot%3Aoverviewtab).
