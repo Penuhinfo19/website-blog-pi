@@ -1,5 +1,5 @@
 ---
-title: 'Editor Video Terbaik 2019'
+title: '14 Software Editor Video Terbaik 2019'
 published: true
 date: '27-06-2019 21:54'
 taxonomy:
@@ -78,3 +78,7 @@ Tapi ada kualitas tentu ada harga yang sesuai untuk itu. Adobe Premiere Pro tida
 PowerDirector adalah perangkat lunak pengeditan video yang dikembangkan oleh CyberLink. Jika Anda adalah pengguna setia OS Windows, software ini sangat sesuai bagi Anda dan yang penting tidak mengecewakan karena aplikasi ini sangat cepat dan ringan untuk berjalan di OS Windows. Tapi sayangnya, PowerDirector 365 ini tidak ada versi trial-nya. Jika Anda mengunjungi halaman Cyberlink Power Director, Anda langsung disajikan dengan dasbord page "barang untuk dijual-belikan". Kunjungi halaman resmi PowerDirector 365 [di sini](https://www.cyberlink.com/stat/edms/ppc/video-editing-software/powerdirector/17/0-30P_Flash/int/index_combo.jsp?affid=2581_-1_419_PDR-B_combo-yes&mkwid=s&pcrid=358063578427&pkw=powerdirector&pmt=e&pdv=c&gclid=CjwKCAjw0tHoBRBhEiwAvP1GFbLDaQKHXFTJi1o3LFmQUbgWlBl9pT_GhttpNsoxpLbZMWmYyhgBaRoCUdcQAvD_BwE) atau langsung [**Beli PowerDirector 365**](https://www.cyberlink.com/stat/edms/ppc/video-editing-software/powerdirector/17/0-30P_Flash/int/comparison_combo.jsp).
 
 !!! Power Director 365 menyediakan tipe software Ultimate untuk licensi seumur hidup. Jika Anda tidak ingin mengeluarkan anggaran yang banyak, sebaiknya pilih tipe ini saja.
+
+---
+
+### 5. lanjut besok lagi yaa sobat info...
