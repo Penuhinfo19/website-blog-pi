@@ -27,6 +27,6 @@ pagination: true
 ---
 
 # Blog **Jendela** Dunia
-**Berbagi Informasi & Inspirasi**
+**Tempat Berbagi Informasi & Inspirasi**
 
 <a href="https://seal.beyondsecurity.com/vulnerability-scanner-verification/penuhinfo.com"><img src="https://seal.beyondsecurity.com/verification-images/penuhinfo.com/vulnerability-scanner-8.gif" alt="Vulnerability Scanner" border="0" /></a>
