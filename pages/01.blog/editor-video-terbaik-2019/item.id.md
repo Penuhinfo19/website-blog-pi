@@ -55,7 +55,7 @@ dan Anda dapat langsung menginstallnya di PC. [**Unduh Movie Maker 10**](https:/
 
 ### 2. iMovie
 
-![iMovie](https://i.imgur.com/hKVGzBu.png)
+![iMovie](https://i.imgur.com/hKVGzBu.png "iMovie")
 
 iMovie adalah aplikasi perangkat lunak pengeditan video yang dijual oleh Apple Inc. Bagi pengguna OS Windows ini agak mengecewakan karena iMovie hanya tersedia bagi pengguna Mac dan iOS ( iPhone, iPad, iPad Mini dan iPod Touch ) saja. [**Unduh iMovie**](https://www.apple.com/imovie/).
 
@@ -63,8 +63,16 @@ iMovie adalah aplikasi perangkat lunak pengeditan video yang dijual oleh Apple I
 
 ### 3. Adobe Premier Pro
 
-![](https://i.imgur.com/MGx7W3K.png)
+![](https://i.imgur.com/MGx7W3K.png "Adobe Premier Pro")
 
 Adobe Premiere Pro adalah aplikasi editing video berbasis waktu yang dikembangkan oleh Adobe Systems dan diterbitkan sebagai bagian dari program lisensi Adobe Creative Cloud. Premiere Pro mendukung pengeditan video resolusi tinggi hingga 10.240 × 8.192 [10] resolusi , hingga 32-bit per warna saluran, baik dalam RGB dan YUV . Pengeditan tingkat sampel audio , dukungan plug-in audio VST , dan pencampuran suara surround 5.1 tersedia. Arsitektur plug-in Premiere Pro memungkinkannya untuk mengimpor dan mengekspor format di luar yang didukung oleh QuickTime atau DirectShow, mendukung beragam format file video dan audio serta codec pada MacOS dan Windows.
 
-Tapi ada kualitas tentu ada harga yang sesuai untuk itu. Adobe Premiere Pro tidak disajikan gratis namun ada versi percobaan selama satu minggu (7 hari) saja. Jika Anda ingin menikmati fitur yang luar biasa ini, sebaiknya Anda menyiapkan anggaran yang cukup untuk membelinya. Anda dapat hanya melihat-lihat saja [di sini](https://www.adobe.com/products/premiere) atau Unduh [Adobe Premier Pro versi Trial](https://www.adobe.com/products/premiere/free-trial-download.html#mini-plans-web-cta-premiere-pro-card).
+Tapi ada kualitas tentu ada harga yang sesuai untuk itu. Adobe Premiere Pro tidak disajikan gratis namun ada versi percobaan selama satu minggu (7 hari) saja. Jika Anda ingin menikmati fitur yang luar biasa ini, sebaiknya Anda menyiapkan anggaran yang cukup untuk membelinya. Anda dapat hanya melihat-lihat saja [di sini](https://www.adobe.com/products/premiere) atau Unduh [**Adobe Premier Pro versi Trial**](https://www.adobe.com/products/premiere/free-trial-download.html#mini-plans-web-cta-premiere-pro-card).
+
+---
+
+### 4. PowerDirector
+
+![](https://i.imgur.com/qr7Usjs.png "PowerDirector")
+
+PowerDirector adalah perangkat lunak pengeditan video yang dikembangkan oleh CyberLink.
