@@ -29,6 +29,8 @@ feed:
 
 Masjid telah ada selama lebih dari satu milenium sebagai tempat ibadah bagi umat Islam di seluruh dunia. Hingga hari ini, keindahan dan sejarah yang kaya dari tempat-tempat suci ini terus menginspirasi pengunjung. Kami daftar 10 masjid yang menakjubkan dari seluruh dunia yang akan membuat Anda kagum.
 
+===
+
 ### 1. Masjid Sheikh Lotfollah
 
 ![Masjid Sheikh Lotfollah](https://i.imgur.com/PVTkWLi.jpg)
