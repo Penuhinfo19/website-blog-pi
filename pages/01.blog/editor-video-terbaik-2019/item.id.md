@@ -16,9 +16,9 @@ external_links:
     target: _blank
     mode: active
 body_classes: 'header-animated header-dark header-transparent'
-header_image_alt_text: 'Mountains in the sun'
-header_image_credit: Unsplash
-header_image_creditlink: 'https://unsplash.com/'
+header_image: true
+header_image_alt_text: 'Video Editing Software'
+header_image_credit: 'by Endi Hariadi'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
