@@ -1,9 +1,10 @@
 ---
 title: 'Embedly Card'
 embedly_card_title: 'Embedly makes your content more engaging and easier to share | Embedly'
+display_embedly_card_title: false
 embedly_card_alignment: left
 embedly_card_url: 'http://embed.ly/'
-published: false
+published: true
 visible: false
 ---
 
