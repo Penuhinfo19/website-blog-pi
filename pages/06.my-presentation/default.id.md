@@ -1,6 +1,6 @@
 ---
 title: My-Presentation
-published: false
+published: true
 hide_git_sync_repo_link: true
 ---
 
