@@ -1,13 +1,20 @@
 ---
 title: 'Editor Video Terbaik 2019'
 published: false
-date: '11-07-2018 14:55'
+date: '27-06-2019 18:29'
 taxonomy:
     category:
         - blog
     tag:
-        - photography
-        - journal
+        - Internet
+        - Tekhnologi
+        - Pendidikan
+external_links:
+    process: true
+    title: true
+    no_follow: true
+    target: _blank
+    mode: active
 body_classes: 'header-animated header-dark header-transparent'
 header_image_alt_text: 'Mountains in the sun'
 header_image_credit: Unsplash
