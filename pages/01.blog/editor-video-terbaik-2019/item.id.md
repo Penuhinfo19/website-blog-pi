@@ -1,5 +1,5 @@
 ---
-title: '14 Software Editor Video Terbaik 2019'
+title: '13 Software Editor Video Terbaik 2019'
 published: true
 date: '27-06-2019 21:54'
 taxonomy:
@@ -180,3 +180,31 @@ Adobe Premiere Elements dapat menangani trek video dan audio yang tidak terbatas
 Program ini juga memiliki fitur rendering video real-time yang memungkinkan pengguna untuk secara instan melihat pratinjau yang dilakukan ke timeline video. Adobe Premiere Elements tersedia untuk Windows dan MacOS.
 
 [Unduh versi Gratis Percobaan](https://www.adobe.com/products/elements-family/premiere-elements/download-trial/try.html) atau [Beli Adobe Premiere Elements](https://commerce.adobe.com/anyware/checkout/?items%5B0%5D%5BofferId%5D=3E77AEDCD6A5CFECD4EAC5B20A2BDA79&items%5B0%5D%5Bquantity%5D=1&clientId=adobe_com&languageCode=en&countryCode=US&promoid=NV3KR63M&mv=other&marketSegment=COM).
+
+---
+
+### 12. Adobe After Effects
+
+![](https://i.imgur.com/ruBWDGM.png?1 "Adobe After Effects")
+
+Masih membahas produk dari Adobe System. Adobe After Effects adalah digital efek visual, grafis gerak, dan compositing yang biasa digunakan dalam proses pasca produksi pembuatan film dan produksi televisi. After Effects dapat digunakan untuk penguncian, pelacakan, pengomposisian, dan animasi. [Unduh versi percobaan](https://creative.adobe.com/products/download/aftereffects?promoid=RYGDN4F6&mv=other)  atau [Unduh versi Berbayar](https://www.adobe.com/sea/creativecloud/plans.html?single_app=aftereffects&promoid=S36FMZP5&mv=other).
+
+---
+
+### 13. Corel VideoStudio Pro 2019
+
+![](https://i.imgur.com/rJDC358.png "Corel VideoStudio Pro 2019")
+
+Seperti namanya, Corel VideoStudio atau bisa disebut VideoStudia saja adalah perangkat lunak yang hanya disediakan untuk para pengguna Windows khususnya Windows 10.  VideoStudio memungkinkan pengeditan storyboard dan berorientasi waktu. Berbagai format didukung untuk klip sumber, dan video yang dihasilkan dapat diekspor ke DVD, AVCHD, HD-DVD, dan AVI. VideoStudio juga mendukung pengambilan langsung DV dan HDV ke disk.
+
+Pada VideoStudio Pro 2019 ada beberapa fitur baru diantaranya :
+
+* Kontrol koreksi warna BARU
+* BARU Morph dan transisi Seamless
+* NEW Video dan perekam layar
+* NEW efek lubang planet dan kelinci kecil
+* Editor Judul yang DITINGKATKAN dan gerakan khusus
+
+Anda dapat menggunakan versi trial jika tidak ingin meninjau fitur-fiturnya terlebih dahulu selama 30 hari kedepan setelah penginstalan. [Unduh versi percobaan gratis](https://www.videostudiopro.com/en/free-trials/). Atau ingin langsung menggunakan versi berbayar tipe Pro ([Unduh tipe Pro](https://ipm.corel.com/omni-tracking/forward.html?dest=https%3A%2F%2Fstore.videostudiopro.com%2F1184%2Fpurl-ESDVS2019PRML%3Fpricerule%3Dstandard%26x-at%3Dvsp2019-xx-crl%26x-channel%3Dcrl&_ga=2.259236746.1447288040.1561743218-660515009.1561743218)) atau tipe Ultimate ([Unduh tipe Ultimate](https://ipm.corel.com/omni-tracking/forward.html?dest=https%3A%2F%2Fstore.videostudiopro.com%2F1184%2Fpurl-ESDVS2019ULML%3Fpricerule%3Dstandard%26x-at%3Dvsp2019-xx-crl%26x-channel%3Dcrl&_ga=2.92514973.1447288040.1561743218-660515009.1561743218)), semua pilihan ada di tangan Anda.
+
+---
