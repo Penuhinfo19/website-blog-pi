@@ -7,7 +7,7 @@ tntsearch:
     index: true
 ---
 
-[plugin:tntsearch](/search)
+[plugin:tntsearch](https://penuhinfo.com/search)
 
 ## Author
 
