@@ -44,11 +44,11 @@ Windows Movie Maker adalah perangkat lunak yang merupakan bagian dari Windows Es
 
 Itu adalah pernyataan resmi dari pihak Microsoft yang bisa Anda baca langsung [di sini](https://support.microsoft.com/en-hk/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Tapi Anda tidak perlu kecewa, pihak Microsoft menyediakan gantinya yaitu Movie Maker 10 yang tersedia untuk PC dengan spesifikasi berikut : 
 
-![](https://i.imgur.com/JSqnoKA.png)
+![](https://i.imgur.com/JSqnoKA.png "Spesifikasi Movie Maker 10")
 
 Untuk mengunduh Movie Maker 10 ini Anda diharuskan memiliki akun microsoft. Jika Anda sudah punya akun microsoft dan terintegrasi dengan browser Anda ketika membuka alamat unduh Movie Maker 10, Anda akan melihat halaman seperti ini,
 
-![](https://i.imgur.com/xaZ6uzr.png)
+![](https://i.imgur.com/xaZ6uzr.png "Movie Maker 10 - halaman unduhan")
 
 dan Anda dapat langsung menginstallnya di PC. [**Unduh Movie Maker 10**](https://www.microsoft.com/en-us/p/movie-maker-10-tell-your-story/9mvfq4lmz6c9?lc=1033&activetab=pivot%3Aoverviewtab).
 
@@ -82,4 +82,34 @@ PowerDirector adalah perangkat lunak pengeditan video yang dikembangkan oleh Cyb
 
 ---
 
-### 5. lanjut besok lagi yaa sobat info...
+### 5. VEGAS Pro 16
+
+![](https://i.imgur.com/ta2WsMk.png "Vegas Pro 16")
+
+Vegas Pro merupakan sebuah software pengeditan video untuk pengeditan non-linear (NLE) yang awalnya diterbitkan oleh Sonic Foundry, kemudian oleh Sony Creative Software, dan sekarang oleh [Magix (VEGAS Creative Software)](https://www.magix.com/). Pada awal pengembangannya, Vegas Pro merupakan software editing audio, hanya itu. Software ini berjalan pada sistem operasi Windows.
+
+Vegas Pro memiliki 4 buah versi Vegas Pro :
+
+1. VEGAS Pro Edit
+2. VEGAS Pro
+3. VEGAS Pro 365, dan
+4. VEGAS Pro Suite
+
+Dari keempat versi di atas, Vegas Pro tidak memberikan versi gratisan tapi ada versi percobaan dengan fitur penuh dijamin selama 30 hari sejak penginstalan. Kunjungi link [versi Percobaan](https://www.vegascreativesoftware.com/us/trial-versions/) ini jika Anda ingin melihat dan mencoba atau jika Anda ingin langsung membeli dapat mengunjungi versi [Vegas Pro Berbayar](https://www.vegascreativesoftware.com/us/vegas-pro/). Pilihlah dengan bijak.
+
+---
+
+### 6. Lightworks v14
+
+![](https://i.imgur.com/x6jRD6e.png "Lightworks v14")
+
+Lightworks memiliki jenis software yang mirip dengan Vegas Pro, karena Lightworks merupakan software / perangkat lunak dengan sistem pengeditan video non-linear profesional (NLE). Lightworks v14 mampu mengedit dan membuat tipe video dengan resolusi 2K dan 4K, dan televisi dalam format PAL, NTSC, dan definisi tinggi. Itu adalah pengembang awal sistem editing non-linear berbasis komputer, dan telah dikembangkan sejak 1989 dan memenangkan 2017 EMMY Award untuk perintis editing nonlinier digital. Lightworks memiliki jutaan pengadopsi di seluruh dunia karena perangkat lunak tersebut tersedia di tiga platform di Windows, Mac dan Linux.
+
+Lightworks dapat digunakan sebagai versi standar yang gratis, namun jika Anda ingin memiliki fitur yang lengkap, Anda dapat meng-upgrade ke versi Pro dengan biaya yang lumayan mahal. 
+
+![](https://i.imgur.com/D7uaGkr.png "harga Lightworks")
+
+Dengan asumsi bahwa Anda hanya ingin menggunakan Lightworks sebagai versi standar yang gratis, Anda dapat mengunjungi halaman [Unduhan Lightworks v14](https://www.lwks.com/index.php?option=com_lwks&view=download&Itemid=206&tab=0) atau jika Anda memiliki anggaran yang lebih dan lebih menyukai fitur yang lengkap, cukup kunjungi [Lightworks v14 Pro](https://www.lwks.com/index.php?option=com_shop&view=shop&Itemid=205).
+
+---
+
