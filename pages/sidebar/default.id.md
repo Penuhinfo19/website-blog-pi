@@ -14,7 +14,7 @@ tntsearch:
             type="text"
              min="3"             required
             placeholder="Search …"
-            value=""
+            value="blog"
             data-search-invalid="Please add at least 3 characters"
             data-search-separator=":"
             data-search-input="/search/query"
