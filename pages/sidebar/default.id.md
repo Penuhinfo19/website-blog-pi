@@ -8,6 +8,7 @@ tntsearch:
 ---
 
 [plugin:tntsearch](/search)
+
 ## Author
 
 [plugin:page-inject](/author)
