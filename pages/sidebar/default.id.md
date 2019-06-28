@@ -7,7 +7,7 @@ plugins:
     tntsearch: true
 ---
 
-[plugin:tntsearch](/search)
+[tntsearch url="https://penuhinfo.com/search"]
 
 ## Author
 
