@@ -133,4 +133,4 @@ THE LITTLE GIANTZ (TLG) adalah studio animasi yang bertempat di Jl. Cilandak 1 N
 
 Beberapa video animasi 3D hasil karya The Little Giantz yang dapat Anda lihat sebagai berikut :
 
-[plugin:youtube]()
+[plugin:youtube](https://youtu.be/lkUegyYgpys)
