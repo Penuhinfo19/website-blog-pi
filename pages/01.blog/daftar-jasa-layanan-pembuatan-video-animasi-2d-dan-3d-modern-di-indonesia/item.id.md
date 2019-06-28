@@ -44,7 +44,7 @@ Anda bisa mencarinya di Google dengan mengetik kata kunci "pembuat animasi". Tap
 
 ## 1. [FASTWORK](https://fastwork.id/)
 
-![fastwork.id](https://i.imgur.com/zKeQ22E.png)
+![fastwork.id](https://i.imgur.com/zKeQ22E.png "Fastwork")
 
 Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lepas. Fastwork membuka kesempatan untuk terhubung dengan animator-animator lepas siap kerja, untuk memenuhi keperluan pembuatan berbagai keperluan industri maupun personal. Untuk mencari para pembuat animasi, Anda bisa mengunjungi halaman [jasa pembuatan animasi bergerak ini](https://fastwork.id/3d-animation) untuk keperluan komersial maupun nonkomersial.
 
@@ -54,7 +54,7 @@ Fastwork adalah sebuah layanan freelancer yang terhubung dengan para pekerja lep
 
 ## 2. [ENSPIRESTUDIO](http://www.enspirestudio.com/)
 
-![](https://i.imgur.com/y8KzlUl.png)
+![](https://i.imgur.com/y8KzlUl.png "Enspire Studio")
 
 Enspire Studio adalah studio animasi 3D yang berbasis di Jakarta, Indonesia, didirikan oleh dua orang yang telah berkecimpung di industri CG selama bertahun-tahun. Endpire Studio ini menerima jasa pembuatan animasi antara lain :
 
@@ -76,7 +76,7 @@ Berikut ini adalah contoh video project yang diproduksi oleh Enspire Studio :
 
 ## 3. [BASE](https://www.base-indonesia.com/)
 
-![](https://i.imgur.com/trpleX8.png)
+![](https://i.imgur.com/trpleX8.png "BASE Studio")
 
 BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional yang berlokasi di Bali, Indonesia. Layanan pembuatan animasi BASE ini memiliki fokus pada layanan produksi, penciptaan IP, dan layanan konsultasi pendidikan dan telah banyak mengeluarkan produk animasinya seperti :
 
@@ -86,8 +86,8 @@ BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional 
 * Vampirina (untuk Brown Bag Films Ireland)
 * Petualangan Si Unyil (untuk PFN Indonesia)
 
-![](https://i.imgur.com/AjC37Zu.jpg?1)
-![](https://i.imgur.com/umWeJeJ.jpg)
+![](https://i.imgur.com/AjC37Zu.jpg?1 "BASE Studio")
+![](https://i.imgur.com/umWeJeJ.jpg "BASE Studio")
 
 Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film kartun 3D Si Unyil :
 
@@ -103,7 +103,7 @@ PT. Kumata Indonesia atau yang lebih dikenal sebagai Kumata Studio didirikan pad
 
 PT. Kumata Indonesia menyediakan layanan animasi satu atap mulai dari pembuatan film panjang penuh, serial televisi, produk, iklan, profil perusahaan dan konten kreatif lainnya.
 
-![](https://i.imgur.com/ydrrScT.png)
+![](https://i.imgur.com/ydrrScT.png "PT. Kumata Indonesia")
 
 Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_) animasi 2D hasil karya dari PT. Kumata Indonesia :
 
@@ -113,11 +113,11 @@ Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_)
 
 ## 4. [AYENA-STUDIO](https://www.ayena-studio.com/)
 
-![ayena-studio](https://i.imgur.com/QQkA3Iw.png)
+![ayena-studio](https://i.imgur.com/QQkA3Iw.png "ayena-studio")
 
 Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memiliki fokus pada layanan desain animasi 2D dan 3D. Mulai berdiri pada Oktober 2011 dan banyak berkolaborasi dengan komunitas kreatif Kota Cimahi. Layanan ini merupakan bagian dari Asosiasi Industri Animasi Indonesia (AINAKI). Tapi sayang sekali, hasil pencarian informasi fisik dari layanan ini tidak bisa banyak gali oleh penulis. Namun di halaman _landing-page_ situsweb Ayena-Studio memajang beberapa hasil karya animasi yang lumayan hebat. Ada desain 2D dan 3D terpajang.
 
-![](https://i.imgur.com/FZOBDdd.png)
+![](https://i.imgur.com/FZOBDdd.png "ayena-studio")
 
 Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi Ayena-Studio ;
 
@@ -127,7 +127,7 @@ Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi 
 
 ## 5. [THE LITTLE GIANTZ](http://www.thelittlegiantz.com/)
 
-![ayena-studio](https://i.imgur.com/QQkA3Iw.png)
+![ayena-studio](https://i.imgur.com/QQkA3Iw.png "HE LITTLE GIANTZ (TLG)")
 
 THE LITTLE GIANTZ (TLG) adalah studio animasi yang bertempat di Jl. Cilandak 1 No.2 Cilandak Barat, Jakarta Selatan, Indonesia. Dikelola dengan banyak tim ahli pembuat animasi 3D yang luar biasa dari International Industry CG Specialist yang menggabungkan lebih dari 15 tahun pengalaman dari menciptakan IP, TV Series dan juga Feature Length - dilatih untuk memahami dan memenuhi kebutuhan produksi berkualitas tinggi dan kuota. Fasilitas dan staf TheLittleGiantz diketahui memenuhi standar dan tuntutan Internasional dalam Komunikasi, manajemen Proyek, pekerjaan berkualitas tinggi, etika kerja profesional, efektif dan efisien dalam semua proyek mereka yang menangani pendekatan dari seluruh dunia.
 
