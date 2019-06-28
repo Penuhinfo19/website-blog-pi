@@ -86,7 +86,7 @@ BASE Studio (Bali Animasi Solusi Ekakarsa) adalah studio Animasi 3D profesional 
 * Vampirina (untuk Brown Bag Films Ireland)
 * Petualangan Si Unyil (untuk PFN Indonesia)
 
-![](https://i.imgur.com/AjC37Zu.jpg)
+![](https://i.imgur.com/AjC37Zu.jpg?1)
 ![](https://i.imgur.com/umWeJeJ.jpg)
 
 Beberapa contoh video project yang diproduksi oleh BASE, diantaranya adalah film kartun 3D Si Unyil :
@@ -122,3 +122,15 @@ Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memi
 Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi Ayena-Studio ;
 
 [plugin:youtube](https://youtu.be/GX9kTEpxjs0)
+
+---
+
+## 5. [THE LITTLE GIANTZ](http://www.thelittlegiantz.com/)
+
+![ayena-studio](https://i.imgur.com/QQkA3Iw.png)
+
+THE LITTLE GIANTZ (TLG) adalah studio animasi yang bertempat di Jl. Cilandak 1 No.2 Cilandak Barat, Jakarta Selatan, Indonesia. Dikelola dengan banyak tim ahli pembuat animasi 3D yang luar biasa dari International Industry CG Specialist yang menggabungkan lebih dari 15 tahun pengalaman dari menciptakan IP, TV Series dan juga Feature Length - dilatih untuk memahami dan memenuhi kebutuhan produksi berkualitas tinggi dan kuota. Fasilitas dan staf TheLittleGiantz diketahui memenuhi standar dan tuntutan Internasional dalam Komunikasi, manajemen Proyek, pekerjaan berkualitas tinggi, etika kerja profesional, efektif dan efisien dalam semua proyek mereka yang menangani pendekatan dari seluruh dunia.
+
+Beberapa video animasi 3D hasil karya The Little Giantz yang dapat Anda lihat sebagai berikut :
+
+[plugin:youtube]()
