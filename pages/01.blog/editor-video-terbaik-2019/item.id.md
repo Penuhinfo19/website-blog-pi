@@ -31,7 +31,8 @@ author: 'Tasha Maxwell'
 Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang-bangun video adalah sebuah alat manipulatif yang menyajikan menu pengubah dan penyusun video kepada penggunanya sehingga menjadi materi yang layak disajikan dan dapat dinikmati oleh orang lain. Pengeditan video digunakan untuk menyusun dan menyajikan semua informasi video, termasuk film dan acara televisi, iklan video, dan esai video yang merupakan bagian dari konten video yang, mirip seperti esai tertulis, kemajuan sebuah argumen.
 
 ===
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-7407288307259713", enable_page_level_ads: true }); </script>
 Dalam artikel ini penulis ingin menginfokan beberapa software editing video terbaik berdasarkan penilaian mesin pencarian google. Ada 14 software video editing diantaranya :
 
 ### 1. Windows Movie Maker
