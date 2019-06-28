@@ -166,6 +166,6 @@ OpenShot Video Editor adalah perangkat lunak gratis dan open-source untuk menged
 
 ---
 
-### 11. Adobe Premier Elements
+### 11. Adobe Premiere Elements 2019
 
-![]()
+![](https://i.imgur.com/PMbLfx4.png "Adobe Premiere Elements 2019")
