@@ -3,8 +3,7 @@ title: Sidebar
 routable: false
 visible: false
 position: top
-tntsearch:
-    index: true
+tntsearch: true
 ---
 
 [plugin:tntsearch](/search)
