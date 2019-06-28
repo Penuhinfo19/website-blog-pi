@@ -7,8 +7,6 @@ plugins:
     tntsearch: true
 ---
 
-[plugin:tntsearch](/tntsearch)
-
 ## Author
 
 [plugin:page-inject](/author)
