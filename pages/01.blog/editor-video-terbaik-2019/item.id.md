@@ -101,7 +101,7 @@ Dari keempat versi di atas, Vegas Pro tidak memberikan versi gratisan tapi ada v
 
 ### 6. Lightworks v14
 
-![](https://i.imgur.com/x6jRD6e.png "Lightworks v14")
+![](https://i.imgur.com/4Hop1nl.png "Lightworks v14")
 
 Lightworks memiliki jenis software yang mirip dengan Vegas Pro, karena Lightworks merupakan software / perangkat lunak dengan sistem pengeditan video non-linear profesional (NLE). Lightworks v14 mampu mengedit dan membuat tipe video dengan resolusi 2K dan 4K, dan televisi dalam format PAL, NTSC, dan definisi tinggi. Itu adalah pengembang awal sistem editing non-linear berbasis komputer, dan telah dikembangkan sejak 1989 dan memenangkan 2017 EMMY Award untuk perintis editing nonlinier digital. Lightworks memiliki jutaan pengadopsi di seluruh dunia karena perangkat lunak tersebut tersedia di tiga platform di Windows, Mac dan Linux.
 
