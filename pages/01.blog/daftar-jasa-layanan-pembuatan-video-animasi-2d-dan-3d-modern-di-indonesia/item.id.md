@@ -127,7 +127,7 @@ Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi 
 
 ## 5. [THE LITTLE GIANTZ](http://www.thelittlegiantz.com/)
 
-![ayena-studio](https://i.imgur.com/QQkA3Iw.png "HE LITTLE GIANTZ (TLG)")
+![THE LITTLE GIANTZ](https://i.imgur.com/hvPSymN.png "THE LITTLE GIANTZ")
 
 THE LITTLE GIANTZ (TLG) adalah studio animasi yang bertempat di Jl. Cilandak 1 No.2 Cilandak Barat, Jakarta Selatan, Indonesia. Dikelola dengan banyak tim ahli pembuat animasi 3D yang luar biasa dari International Industry CG Specialist yang menggabungkan lebih dari 15 tahun pengalaman dari menciptakan IP, TV Series dan juga Feature Length - dilatih untuk memahami dan memenuhi kebutuhan produksi berkualitas tinggi dan kuota. Fasilitas dan staf TheLittleGiantz diketahui memenuhi standar dan tuntutan Internasional dalam Komunikasi, manajemen Proyek, pekerjaan berkualitas tinggi, etika kerja profesional, efektif dan efisien dalam semua proyek mereka yang menangani pendekatan dari seluruh dunia.
 
