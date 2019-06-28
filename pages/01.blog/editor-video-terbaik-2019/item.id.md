@@ -20,6 +20,9 @@ header_image: true
 header_image_file: /blog/editor-video-terbaik-2019/video-editing-banner.png
 header_image_alt_text: 'Video Editing Software'
 header_image_credit: 'by Endi Hariadi'
+summary:
+    enabled: '1'
+    format: short
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
@@ -169,3 +172,11 @@ OpenShot Video Editor adalah perangkat lunak gratis dan open-source untuk menged
 ### 11. Adobe Premiere Elements 2019
 
 ![](https://i.imgur.com/PMbLfx4.png "Adobe Premiere Elements 2019")
+
+Adobe Premiere Elements adalah perangkat lunak pengeditan video yang diterbitkan oleh Adobe Systems. Ini adalah versi kecil dari Adobe Premiere Pro dan dirancang untuk editor pemula dan konsumen. Layar entri menawarkan opsi pengorganisasian klip, pengeditan dan pembuatan film otomatis. File proyek Premiere Pro tidak kompatibel dengan file proyek Premiere Elements.
+
+Adobe Premiere Elements dapat menangani trek video dan audio yang tidak terbatas, dengan beberapa efek keyfram yang diterapkan pada setiap klip, serta kemampuan Picture-in-picture dan chromakey. Ini juga mendukung banyak plug-in pihak ketiga untuk fitur tambahan, termasuk plug-in Premiere Pro, plug-in After Effects, dan efek VST. Itu dapat membuat bilah dan nada serta pemimpin hitungan mundur, seperti halnya Premiere Pro.
+
+Program ini juga memiliki fitur rendering video real-time yang memungkinkan pengguna untuk secara instan melihat pratinjau yang dilakukan ke timeline video. Adobe Premiere Elements tersedia untuk Windows dan MacOS.
+
+[Unduh versi Gratis Percobaan](https://www.adobe.com/products/elements-family/premiere-elements/download-trial/try.html) atau [Beli Adobe Premiere Elements](https://commerce.adobe.com/anyware/checkout/?items%5B0%5D%5BofferId%5D=3E77AEDCD6A5CFECD4EAC5B20A2BDA79&items%5B0%5D%5Bquantity%5D=1&clientId=adobe_com&languageCode=en&countryCode=US&promoid=NV3KR63M&mv=other&marketSegment=COM).
