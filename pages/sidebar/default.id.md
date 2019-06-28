@@ -7,7 +7,19 @@ tntsearch:
     index: true
 ---
 
-[plugin:tntsearch](https://penuhinfo.com/search)
+<form name="search" data-simplesearch-form>
+        <input
+            name="searchfield"
+            class="form-control "
+            type="text"
+             min="3"             required
+            placeholder="Search …"
+            value=""
+            data-search-invalid="Please add at least 3 characters"
+            data-search-separator=":"
+            data-search-input="/search/query"
+        />
+            </form>
 
 ## Author
 
