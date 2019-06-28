@@ -150,5 +150,8 @@ VidePad menyediakan edisi Master dan edisi Home. Jika ingin fitur yang lengkap A
 
 ### 9. Freemake Video Converter
 
-![](https://i.imgur.com/lJVG83T.png "Freemake Video Converte")
+![](https://i.imgur.com/lJVG83T.png "Freemake Video Converter")
 
+Freemake Video Converter adalah aplikasi pengeditan video entry-level freemium (terlepas dari namanya) yang dikembangkan oleh Ellora Assets Corporation. Program ini dapat digunakan untuk mengkonversi antara format video, menyalin DVD video, membuat tayangan slide foto dan visualisasi musik. Itu juga dapat membakar video stream yang kompatibel ke DVD atau Disk Blu-ray atau mengunggahnya langsung ke YouTube. Freemake mendukung semua format populer dan langka yang tidak dilindungi termasuk MP4, AVI, MKV, WMV, MP3, DVD, 3GP, SWF, FLV, HD, MOV, RM, QT, Divx, Xvid, TS, MTS, dan Fraps . Impor foto atau file audio untuk mengubah multimedia menjadi video. Ubah beberapa klip sekaligus. Codec termasuk: H.264, MKV, MPEG4, AAC.
+
+Freemake tersedia untuk diunduh secara gratis dari situs web resmi [https://www.freemake.com](https://www.freemake.com/). Lisensi gratis tidak kedaluwarsa dan semua opsi inti disediakan secara gratis. Kami juga menawarkan paket tambahan untuk pengguna PRO untuk memperluas fungsionalitas dasar. Freemake tampaknya hanya menyediakan bagi pengguna OS Windows saja. Kunjungi halaman [Unduh Freemake](https://www.freemake.com/downloads/).
