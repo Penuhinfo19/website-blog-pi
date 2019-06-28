@@ -7,19 +7,7 @@ tntsearch:
     index: true
 ---
 
-<form name="search" data-simplesearch-form>
-        <input
-            name="searchfield"
-            class="form-control "
-            type="text"
-             min="3"             required
-            placeholder="Search …"
-            value="blog"
-            data-search-invalid="Please add at least 3 characters"
-            data-search-separator=":"
-            data-search-input="/search/query"
-        />
-            </form>
+[plugin:tntsearch](/search)
 
 ## Author
 
