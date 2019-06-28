@@ -113,3 +113,42 @@ Dengan asumsi bahwa Anda hanya ingin menggunakan Lightworks sebagai versi standa
 
 ---
 
+### 7. Final Cut Pro (Final Cut Pro X)
+
+![](https://i.imgur.com/cyjrjdI.png "Final Cut Pro)
+
+Final Cut Pro adalah serangkaian program perangkat lunak pengeditan video non-linear yang pertama kali dikembangkan oleh Macromedia Inc. dan kemudian Apple Inc. Versi terbaru, Final Cut Pro X 10.4.6, berjalan pada komputer Mac berbasis Intel yang ditenagai oleh macOS High Sierra atau diatasnya. Perangkat lunak ini memungkinkan pengguna untuk login dan mentransfer video ke hard drive (internal atau eksternal), di mana itu dapat diedit, diproses, dan output ke berbagai format. Final Cut Pro X yang ditulis ulang sepenuhnya diperkenalkan oleh Apple pada tahun 2011, dengan versi terakhir dari Final Cut Pro yang terdahulu adalah versi 7.0.3.
+
+Karenanya jika Anda ketikkan Final Cut Pro di browser Google, akan keluar link yang mirip "Final Cut Pro" dan "Final Cut Pro X". [**Final Cut Pro**]()https://www.wondershare.net/ad/video-editor-win/filmora-dco.html?gclid=CjwKCAjw9dboBRBUEiwA7VrrzeZAsRgLBMrkMwtbDdS3R403OMHg1_JkzIXAI84_n3dTZrZpQ0vrZBoCw9wQAvD_BwE tersedia untuk dijalankan di perangkat Windows, MAC, IOS, dan Android, sedangkan [**Final Cut Pro X**](https://www.apple.com/final-cut-pro/) tersedia bagi perangkat MAC, iPad, dan iPhone. Yang menyedihkan, tidak ada versi gratis tapi ada versi percobaan selama 30 hari dengan fitur full.
+
+Saat artikel ini ditulis (2019), Final Cut Pro memiliki 3 versi berdasarkan adaptasi perangkat; Filmora9 (untuk PC), FilmoraGo (untuk Mobile), dan FilmoraPro (comming soon), sementara itu ada 3 versi berdasarkan pembeliannya yaitu versi Individual, Bisnis, dan Edukasi. Untuk harga, Filmora9 ini menurut saya sangat terjangkau bagi kantong dengan anggaran menengah ke bawah.
+
+---
+
+### 8. VidePad Video Editor
+
+![](https://i.imgur.com/KVCsyY5.png "VidePad Video Editor")
+
+VidePad Video Editor adalah aplikasi pengeditan video yang dikembangkan oleh NCH Software untuk pasar rumah dan profesional. Perangkat lunak ini dilengkapi oleh plug-in VirtualDub yang berfungsi dengan perangkat lunak. VidePad adalah bagian dari suite yang terintegrasi dengan perangkat lunak lain yang dibuat oleh NCH Software. Perangkat lunak lain ini termasuk WavePad, program pengeditan suara; MixPad, program pencampuran suara; dan PhotoPad, editor gambar.
+
+VidePad mendukung format file yang sering digunakan termasuk Audio Video Interleave (AVI), Windows Media Video (WMV), 3GP, dan DivX. Ini mendukung unggahan video langsung ke YouTube, Flickr, dan Facebook.
+
+VidePad kompatibel dengan beberapa perangkat berikut :
+
+* Windows
+* Mac OS X
+* iPhone
+* iPad
+* Android
+* Kindle
+
+Bagi Anda pengguna Windows yang mungkin tidak ingin mengeluarkan isi kantong, VidePad memiliki versi gratis yang tersedia untuk keperluan individu dan untuk penggunaan non-kommersial yang dapat diunduh di [Link Unduhan VidePad Gratis untuk Widows](https://www.nchsoftware.com/download/videopadflaunch.exe).
+
+VidePad menyediakan edisi Master dan edisi Home. Jika ingin fitur yang lengkap Anda dapat membelinya dengan harga yang lumayan murah. Saat tulisan ini dibuat, VidePad memiliki harga diskon $34.99 (Rp. 494.338) dari harga awal $99 (Rp.1.398.672) (untuk [VidePad Master Edition](https://secure.nch.com.au/cgi-bin/register.exe?software=videopad#tbl2)) dan $24.99 (Rp.353.058) dari harga awal $60 (RP.847.680) (untuk [VidePad Home Edition](https://secure.nch.com.au/cgi-bin/register.exe?software=videopad#tbl2)).
+
+---
+
+### 9. Freemake Video Converter
+
+![](https://i.imgur.com/lJVG83T.png "Freemake Video Converte")
+
