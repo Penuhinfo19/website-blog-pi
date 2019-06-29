@@ -59,7 +59,7 @@ body_classes: 'header-animated header-dark header-transparent'
 </div>
 
 ---
-
+[center]**Tinjau Data Dalam Gambar**[/center]
 <div>
 <!DOCTYPE html>
 <html>
