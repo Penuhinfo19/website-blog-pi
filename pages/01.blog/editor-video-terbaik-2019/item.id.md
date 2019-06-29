@@ -28,7 +28,7 @@ continue_link: true
 hide_git_sync_repo_link: false
 feed:
     limit: 10
-author: 'Tasha Maxwell'
+author: 'Endi Hariadi'
 ---
 
 Dalam suatu aktifitas pembuatan sebuah video, penggunaan alat editor video sangatlah diperlukan. Editor video atau perancang-bangun video adalah sebuah alat manipulatif yang menyajikan menu pengubah dan penyusun video kepada penggunanya sehingga menjadi materi yang layak disajikan dan dapat dinikmati oleh orang lain. Pengeditan video digunakan untuk menyusun dan menyajikan semua informasi video, termasuk film dan acara televisi, iklan video, dan esai video yang merupakan bagian dari konten video yang, mirip seperti esai tertulis, kemajuan sebuah argumen.
