@@ -82,6 +82,7 @@ content:
   <title>Pembaca Data Gambar</title>
   <meta name="description" content="Alat Online untuk melihat data Exif, yaitu data pelengkap di balik sebuah file gambar, seperti; pengaturan kamera, kapan diambil, lokasi pengambilan gambar, pemilik gambar, dan sebagainya.">
   <meta name="keywords" content="Exif Image, Endi Hariadi, Tool Online">
+  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
 </head>
 
 <body>
