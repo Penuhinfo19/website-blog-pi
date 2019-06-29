@@ -365,7 +365,7 @@ body_classes: 'header-animated header-dark header-transparent'
     <div class="container">
       <div class="row">
         <div class="col-md-6 d-flex flex-column justify-content-end align-items-center">
-          <form action="https://exif.regex.info/exif.cgi/Jeffrey%20Friedl&#39;s%20Image%20Metadata%20Viewer_files/recaptcha__id.js.download" method="post" enctype="multipart/form-data" class="w-100">
+          <form action="https://exif.regex.info/exif.cgi" method="post" enctype="multipart/form-data" class="w-100">
             <input name="imgurl" type="url" value="" placeholder="URL of image on the web" size="40"><br>
             <i>or...</i><br class="my-3 py-3">
             <b>File:</b> <input type="file" name="f" placeholder="local filename">
