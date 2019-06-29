@@ -61,6 +61,8 @@ body_classes: 'header-animated header-dark header-transparent'
 ---
 
 <div>
+<!DOCTYPE html>
+<html>
 <script type='text/javascript'>if ( top.location.href!= window.location.href ) top.location.href = window.location.href;</script>
 <script type='text/javascript'>
 
@@ -673,4 +675,5 @@ window.onload = function() {
 <span title="XLTX: Office Open XML Spreadsheet Template">XLTX</span>,
 <b style='font-size:120%'><span title="XMP: Extensible Metadata Platform">XMP</span></b>,
 and <span title="ZIP: ZIP archive">ZIP</span>.<br/>Powered by Phil Harvy's <a href='http://owl.phy.queensu.ca/~phil/exiftool/'>ExifTool</a>. Max file size 80 megabytes. Photos and data viewed with this service are not shared with anyone else, nor are they saved beyond the temporary period needed for the service to function.</p>
+</html>
 </div>
