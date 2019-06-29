@@ -1,11 +1,6 @@
 ---
 title: Tools
 media_order: website-blocked.png
-content:
-    items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
 published: true
 date: '23-06-2019 23:33'
 taxonomy:
@@ -13,10 +8,15 @@ taxonomy:
         - Tool
     tag:
         - 'Unblock Website'
-body_classes: 'header-animated header-dark header-transparent'
 hide_page_title: false
 show_sidebar: false
 hide_git_sync_repo_link: false
+body_classes: 'header-animated header-dark header-transparent'
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 ---
 
 # [center]Buka Website Yang Diblokir[/center]
@@ -89,7 +89,7 @@ hide_git_sync_repo_link: false
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <p class="text-center" contenteditable="true">Tool online untuk melihat data dan informasi pada gambar (yang tertanam dalam metadata gambar). Ini dapat berupa; jenis dan merk kamera saat foto diambil, pengaturan editing, tanggal pengambilan, pengunggah foto asli, informasi tanggal dan lokasi, dan lokasi gambar (dapat dilacak lokasinya), dan sebagainya.</p>
+          <p class="text-center">Tool online untuk melihat data dan informasi pada gambar (yang tertanam dalam metadata gambar). Ini dapat berupa; jenis dan merk kamera saat foto diambil, pengaturan editing, tanggal pengambilan, pengunggah foto asli, informasi tanggal dan lokasi, dan lokasi gambar (dapat dilacak lokasinya), dan sebagainya.</p>
         </div>
       </div>
     </div>
