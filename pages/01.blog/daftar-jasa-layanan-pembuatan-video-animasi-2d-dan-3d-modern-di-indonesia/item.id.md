@@ -117,7 +117,7 @@ Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_)
 
 Ayena-Studio adalah sebuah komunitas anak muda Kota Cimahi - Indonesia yang memiliki fokus pada layanan desain animasi 2D dan 3D. Mulai berdiri pada Oktober 2011 dan banyak berkolaborasi dengan komunitas kreatif Kota Cimahi. Layanan ini merupakan bagian dari Asosiasi Industri Animasi Indonesia (AINAKI). Tapi sayang sekali, hasil pencarian informasi fisik dari layanan ini tidak bisa banyak gali oleh penulis. Namun di halaman _landing-page_ situsweb Ayena-Studio memajang beberapa hasil karya animasi yang lumayan hebat. Ada desain 2D dan 3D terpajang.
 
-![](https://i.imgur.com/FZOBDdd.png "ayena-studio")
+![](https://youtu.be/ad1d2-hySfE "ayena-studio")
 
 Langsung saja, berikut ini adalah hasil karya video animasi 3DCG dan Real-Fiksi Ayena-Studio ;
 
