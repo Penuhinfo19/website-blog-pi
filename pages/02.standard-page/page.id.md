@@ -76,7 +76,7 @@ content:
   <link rel="stylesheet" href="https://static.pingendo.com/bootstrap/bootstrap-4.3.1.css">
   <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
   <script> function onSubmit(token) {
-         document.getElementById("exif-form").submit();
+         document.getElementById("file-input").submit();
        }
      </script>
   <title>Pembaca Data Gambar</title>
@@ -109,7 +109,7 @@ content:
     </div>
   </div>
 
-    <script type="text/javascript" src="exif.js"></script>
+    <script type="text/javascript" src="/exiftool/node_modules/exif-js/exif.js"></script>
     <script>
         document.getElementById("file-input").onclick = function() {
             EXIF.getData(this, function() {
