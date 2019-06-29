@@ -1,14 +1,13 @@
 ---
-title: 'Focus and Blur'
+title: 'MP3 Editing Software'
 published: true
 date: '21-06-2018 13:34'
 taxonomy:
     category:
         - blog
     tag:
-        - photography
-        - ocean
-        - birds
+        - Software
+body_classes: 'header-animated header-dark header-transparent'
 header_image_alt_text: 'Wharf with birds, which blurs into the distance'
 header_image_credit: Unsplash
 header_image_creditlink: 'https://unsplash.com/'
