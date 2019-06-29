@@ -390,6 +390,242 @@ body_classes: 'header-animated header-dark header-transparent'
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script type='text/javascript'>if ( top.location.href!= window.location.href ) top.location.href = window.location.href;</script>
+<script type='text/javascript'>
+
+  var afpp  = new Array(); // auto-focus point position
+  var faces = new Array();
+
+  function update_faces()
+  {
+      for (i = 0; i < faces.length; i++)
+      {
+          var rec = faces[i];
+          var img  = document.getElementById(rec.img_id);
+          var face = document.getElementById(rec.div_id);
+
+          // for Panasonic
+          var black_bar_height = 0;
+
+          if (rec.expected_ratio)
+          {
+             black_bar_height = (img.height - (img.width * rec.expected_ratio))/2;
+             if (black_bar_height < 1)
+                black_bar_height = 0;
+          }
+
+          var x1 = Math.round(2 + 1 + rec.x1 * img.width  - 3                   );
+          var y1 = Math.round(black_bar_height + 2 + 1 + rec.y1 * (img.height - black_bar_height * 2) - 3);
+
+          var width;
+          var height;
+          if (rec.width) {
+              width  = rec.width  * img.width;
+              height = rec.height * (rec.height_factor_is_width ? img.width: img.height);
+          } else {
+              var x2 = Math.round(2 + 1 + rec.x2 * img.width  - 3                   );
+              var y2 = Math.round(black_bar_height + 2 + 1 + rec.y2 * (img.height - black_bar_height * 2) - 3);
+              width  = x2-x1
+              height = y2-y1
+          }
+
+          face.style.left   = x1     + "px";
+          face.style.top    = y1     + "px";
+          face.style.width  = width  + "px";
+          face.style.height = height + "px";
+      }
+  }
+
+  function update_af_point()
+  {
+     for (i = 0; i < afpp.length; i++)
+     {
+        var rec = afpp[i];
+        var img = document.getElementById(rec.img_id);
+        var div = document.getElementById(rec.div_id);
+        div.style.left = Math.round(2 + 1 + rec["x"] * img.width  - 3/2 - 2 ) + "px";
+        div.style.top  = Math.round(2 + 1 + rec["y"] * img.height - 3/2 - 2 ) + "px";
+     }
+  }
+
+  function update_img_markup()
+  {
+     update_faces();
+     update_af_point();
+  }
+
+  var FT1 = "click to hide";
+  var FT2 = "click to show";
+  function toggle_faces(obj)
+  {
+      var vis;
+      if (obj.innerHTML == FT1) {
+          obj.innerHTML = FT2;
+          vis = "hidden";
+      } else {
+          obj.innerHTML = FT1;
+          vis = "visible";
+      }
+
+    for (i = 0; i < faces.length; i++)
+    {
+        var rec = faces[i];
+        document.getElementById(rec.div_id).style.visibility = vis
+    }
+  }
+
+  function toggle_afpp(obj)
+  {
+      var vis;
+      if (obj.innerHTML == FT1) {
+          obj.innerHTML = FT2;
+          vis = "hidden";
+      } else {
+          obj.innerHTML = FT1;
+          vis = "visible";
+      }
+
+     for (i = 0; i < afpp.length; i++)
+     {
+        var rec = afpp[i];
+        document.getElementById(rec.div_id).style.visibility = vis
+     }
+  }
+
+  var image_deg    = new Array();
+  var image_scale  = new Array();
+  var image_factor = new Array();
+  var image_W      = new Array();
+  var image_H      = new Array();
+  var view_W       = new Array();
+  var view_H       = new Array();
+
+  function show_image(num, scale, force_width, force_height)
+  {
+      var image   = document.getElementById('I' + num + '_image');
+      var canvas  = document.getElementById('I' + num + '_canvas');
+      var percent = document.getElementById('I' + num + '_percent');
+      var area    = document.getElementById('I' + num + '_area');
+
+      if (scale == null) {
+          image_factor[num] = 1;
+          image.width       = view_W[num];
+          image.height      = view_H[num];
+      } else if (scale != 1) {
+          image_factor[num] *= scale;
+          image.width       *= scale;
+          image.height      *= scale;
+      }
+
+
+      if (typeof(canvas.getContext) == "function")
+      {
+          var context = canvas.getContext('2d');
+          var degrees = image_deg[num];
+
+          context.save(); 
+
+          switch(image_deg[num]) {
+              default :
+                canvas.style.display = 'none';
+                image.style.display = 'inline';
+                break;
+
+              case 90:
+                canvas.setAttribute('width',  image.height);
+                canvas.setAttribute('height', image.width);
+                context.rotate(90 * Math.PI / 180);
+                context.drawImage(image, 0, -image.height, image.width, image.height);
+                image.style.display = 'none';
+                canvas.style.display = 'inline';
+                break;
+
+              case 180:
+                canvas.setAttribute('width',  image.width);
+                canvas.setAttribute('height', image.height);
+                context.rotate(180 * Math.PI / 180);
+                context.drawImage(image, -image.width, -image.height, image.width, image.height);
+                image.style.display = 'none';
+                canvas.style.display = 'inline';
+                break;
+
+              case 270:
+                canvas.setAttribute('width', image.height);
+                canvas.setAttribute('height', image.width);
+                context.rotate(270 * Math.PI / 180);
+                context.drawImage(image, -image.width, 0, image.width, image.height);
+                image.style.display = 'none';
+                canvas.style.display = 'inline';
+                break;
+          }
+          context.restore();
+
+      }
+      else
+      {
+          switch(image_deg[num]) {
+              default:
+                    image.style.filter = 'progid:DXImageTransform.Microsoft.BasicImage(rotation=0)';
+                    break;
+
+              case 90:
+                    image.style.filter = 'progid:DXImageTransform.Microsoft.BasicImage(rotation=1)';
+                    break;
+
+              case 180:
+                    image.style.filter = 'progid:DXImageTransform.Microsoft.BasicImage(rotation=2)';
+                    break;
+
+              case 270:
+                    image.style.filter = 'progid:DXImageTransform.Microsoft.BasicImage(rotation=3)';
+                    break;
+          }
+      }
+
+      percent.innerHTML = Math.round(image_factor[num] * 100) + "%";
+      if (area && image_W[num] && image_H[num])
+      {
+          area.innerHTML = Math.round(image.width * image.height  / (image_W[num] * image_H[num]) * 100) + "%";
+      }
+      update_img_markup();
+  }
+
+  function zoom_image(num, dir)
+  {
+
+      if (dir > 0)
+         show_image(num, 1.25);
+      else
+         show_image(num,  .75);
+  }
+
+  function rotate_image(num, dir)
+  {
+      image_deg[num] += 90 * dir;
+      if ((image_deg[num] <= 0) || (image_deg[num] >= 360))
+          image_deg[num] = 0;
+
+      show_image(num, 1);
+  }
+
+  function Histogram(obj, file)
+  {
+      var url = location.pathname + "?h=" + file
+      obj.innerHTML = "<div class='histo'><img class='histo' src='" + url + "'/></div>";
+  }
+
+  function toggleframe(span, id, url1, url2)
+  {
+      var obj = document.getElementById(id);
+      if (obj.src == url1) {
+          obj.src =  url2;
+          span.innerHTML = "show raw frame";
+      } else {
+          obj.src =  url1;
+          span.innerHTML = "show composite frame";
+      }
+  }
+</script>
 </body>
 
 </html>
