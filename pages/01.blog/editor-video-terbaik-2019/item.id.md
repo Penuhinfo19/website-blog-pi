@@ -8,7 +8,6 @@ taxonomy:
     tag:
         - Tekhnologi
         - Internet
-        - Pendidikan
 external_links:
     process: true
     title: true
