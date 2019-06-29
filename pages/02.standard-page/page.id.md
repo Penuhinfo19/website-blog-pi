@@ -373,7 +373,7 @@ window.onload = function() {
 <h1>Jeffrey's Image Metadata Viewer</b></h1>
 
 
-<form style='border: 1px solid gray; padding: 5px' action='http://penuhinfo.com/tools' method='post' enctype='multipart/form-data'>
+<form style='border: 1px solid gray; padding: 5px' action='https://penuhinfo.com/id/standard-page' method='post' enctype='multipart/form-data'>
 <table><tr><td>
 
 
