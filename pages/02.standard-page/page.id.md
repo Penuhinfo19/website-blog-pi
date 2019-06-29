@@ -18,6 +18,49 @@ body_classes: 'header-animated header-dark header-transparent'
 [center]Tool ini dibuat berdasarkan Hideoxy. Hideoxy adalah proxy web gratis baru untuk menjelajahi internet secara anonim. Alat ini dapat menyembunyikan alamat IP Anda, mengamankan koneksi Internet Anda, menelusuri situs web secara anonim, menyembunyikan riwayat Internet Anda dan melindungi privasi Anda secara online. Anda dapat menggunakan proksi web Hideoxy di rumah dan di kantor untuk mengunjungi situs web yang diblokir, seperti YouTube, Reddit, Facebook, Google, Tumblr, dan banyak lagi. Jika Anda merasa perlu untuk mengunjungi Hideoxy, gunakan [tautan ini](http://www.hideoxy.com)[/center]
 
 <div>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="https://static.pingendo.com/bootstrap/bootstrap-4.3.1.css">
+</head>
+
+<body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p class="text-center">Masukkan domain website yang diblokir :</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 d-inline-flex flex-row justify-content-center">
+          <form class="form-inline" action="http://service.hideoxy.com/index.php" method="post" role="form">
+            <div class="form-group">
+              <input type="email" class="form-control form-control-lg w-100 px-3 shadow mx-auto" id="websiteURL" placeholder=""> </div>
+            <button type="submit" class="btn btn-primary btn-lg ml-3">Buka Blokir</button>
+          </form>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p class="text-center">Contoh: web-diblokir.com dan buang http:// atau https://</p>
+        </div>
+      </div>
+    </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous" style=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous" style=""></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" style=""></script>
+</body>
+
+</html>
+</div>
+
+---
+
+<div>
 <script type='text/javascript'>if ( top.location.href!= window.location.href ) top.location.href = window.location.href;</script>
 <script type='text/javascript'>
 
@@ -298,7 +341,7 @@ window.onload = function() {
  };
 </script>
 
-<script src='../www.google.com/8z6qygxt.js'></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <div style='float:right;
      background-color: #FDD;
@@ -336,12 +379,13 @@ window.onload = function() {
 <i>or...</i></br>
 <b>File:</b> <input type='file' name='f' placeholder='local filename'/>
 </td><td>
-<div class="g-recaptcha" data-callback="cansubmit" data-sitekey="6LfyNg8UAAAAACnDAWS_wtQyWvDLohAdDoPcpkdU"></div>
+<div class="g-recaptcha" data-callback="cansubmit" data-sitekey="6LciPqsUAAAAAG7pcKGZfZfssuASiScmUikT6P3t"></div>
 </td><td>
 <input style='font-size: 80%' type='submit' id="subbutton" value='View Image Data'/>
 </td>
 </tr></table>
 </form>
+
 <p>If you have questions about this tool, please <a href='http://exif.regex.info/faq.html'>see the FAQ</a>.</p>
 
 <hr style='clear:both;margin-top:100px'/><p style='font-size:70%'><b>Works with these file types</b>: <span title="3FR: Hasselblad RAW format">3FR</span>,
