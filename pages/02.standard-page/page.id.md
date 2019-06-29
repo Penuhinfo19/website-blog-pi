@@ -345,6 +345,7 @@ window.onload = function() {
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
+    <body>
 <div style='float:right;
      background-color: #FDD;
      border-right: 1px solid #EEE;
@@ -675,5 +676,6 @@ window.onload = function() {
 <span title="XLTX: Office Open XML Spreadsheet Template">XLTX</span>,
 <b style='font-size:120%'><span title="XMP: Extensible Metadata Platform">XMP</span></b>,
 and <span title="ZIP: ZIP archive">ZIP</span>.<br/>Powered by Phil Harvy's <a href='http://owl.phy.queensu.ca/~phil/exiftool/'>ExifTool</a>. Max file size 80 megabytes. Photos and data viewed with this service are not shared with anyone else, nor are they saved beyond the temporary period needed for the service to function.</p>
-</html>
+</body>
+    </html>
 </div>
