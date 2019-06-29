@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - Tekhnologi
-        - Software
+        - Internet
 external_links:
     process: true
     title: true
