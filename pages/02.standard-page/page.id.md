@@ -28,15 +28,33 @@ body_classes: 'header-animated header-dark header-transparent'
 </head>
 
 <body>
-  <div class="py-5" >
+    <div class="container">
+    <div class="row">
+      <div class="col-md-12 my-3 py-3">
+        <form class="text-center" role="form" action="http://service.hideoxy.com/index.php" method="post">
+          <input type="text" name="url" class="form-control-large  border rounded" id="websiteURL" value="">
+          <button type="submit" class="btn btn-primary" style="box-shadow: rgba(90, 158, 242, 0.26) 5px 10px; height: 43px;">Buka Blokir Wesbite</button>
+        </form>
+      </div>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <form class="text-center" role="form" action="http://service.hideoxy.com/index.php" method="post">
-            <input type="text" name="url" class="form-control-large  border rounded" id="websiteURL" value="" style="width: 300px;height:43px;margin-right:5px;
- color: rgb(80, 89, 108); box-shadow: none;border-color: rgba(48, 133, 238, 1);box-shadow: 5px 10px rgba(90, 158, 242, 0.26);">
-            <button type="submit" class="btn btn-primary" style="box-shadow: 5px 10px rgba(90, 158, 242, 0.26);height:43px">Buka Blokir Wesbite</button>
+          <p class="text-center">Masukkan domain website yang diblokir :</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 d-inline-flex flex-row justify-content-center">
+          <form class="form-inline" action="http://service.hideoxy.com/index.php" method="post" role="form">
+            <div class="form-group">
+              <input type="email" class="form-control form-control-lg w-100 px-3 shadow mx-auto" id="websiteURL" placeholder=""> </div>
+            <button type="submit" class="btn btn-primary btn-lg ml-3">Buka Blokir</button>
           </form>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p class="text-center">Contoh: web-diblokir.com dan buang http:// atau https://</p>
         </div>
       </div>
     </div>
