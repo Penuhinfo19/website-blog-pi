@@ -14,7 +14,7 @@ hide_git_sync_repo_link: false
 body_classes: 'header-animated header-dark header-transparent'
 ---
 
-[center]**Buka Website Yang Diblokir**[/center]
+# [center]Buka Website Yang Diblokir[/center]
 [center]Tool ini dibuat berdasarkan Hideoxy. Hideoxy adalah proxy web gratis baru untuk menjelajahi internet secara anonim. Alat ini dapat menyembunyikan alamat IP Anda, mengamankan koneksi Internet Anda, menelusuri situs web secara anonim, menyembunyikan riwayat Internet Anda dan melindungi privasi Anda secara online. Anda dapat menggunakan proksi web Hideoxy di rumah dan di kantor untuk mengunjungi situs web yang diblokir, seperti YouTube, Reddit, Facebook, Google, Tumblr, dan banyak lagi. Jika Anda merasa perlu untuk mengunjungi Hideoxy, gunakan [tautan ini](http://www.hideoxy.com)[/center]
 
 <div>
@@ -59,7 +59,7 @@ body_classes: 'header-animated header-dark header-transparent'
 </div>
 
 ---
-[center]**Tinjau Data Dalam Gambar**[/center]
+# [center]Tinjau Data Dalam Gambar[/center]
 <div>
 <!DOCTYPE html>
 <html>
