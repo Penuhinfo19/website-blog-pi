@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Software
+        - Tekhnologi
 body_classes: 'header-animated header-dark header-transparent'
 header_image_alt_text: 'Wharf with birds, which blurs into the distance'
 header_image_credit: Unsplash
