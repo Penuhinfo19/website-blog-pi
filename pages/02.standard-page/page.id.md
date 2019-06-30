@@ -17,8 +17,6 @@ content:
     order:
         by: ''
         dir: ''
-enabled: true
-datafile: count-views.yaml
 ---
 
 # [center]Buka Website Yang Diblokir[/center]
