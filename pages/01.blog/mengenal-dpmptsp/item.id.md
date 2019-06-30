@@ -123,45 +123,47 @@ Berikut adalah berbagai lokasi DPMPTSP yang tersebar di berbagai Daerah / Provin
 6. DPMPTSP Kota Bogor. DPMPTSP Kota Bogor bertempat di Jl. Tegar Beriman No.40, Tengah, Cibinong, Bogor, Jawa Barat 16914. [Alamat Website](http://perizinan.kotabogor.go.id/).
 
 <div>
-    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bogor</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033676.0806004272!2d104.19145363427559!3d-5.413376855791786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c1f2effffb29%3A0x60b45cde4873c472!2sDPMPTSP+Kabupaten+Bogor!5e0!3m2!1sid!2sid!4v1561880041633!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
 7. DPMPTSP Provinsi Jawa Barat. DPMPTSP Jawa Barat bertempat di Jl. Windu No.26, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263. [Alamat Website](https://dpmptsp.jabarprov.go.id/web/).
 
 <div>
-    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Provinsi Jawa Barat</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e637d0927515%3A0x9c827b303ce7ba07!2sDPMPTSP+JABAR!5e0!3m2!1sid!2sid!4v1561880722269!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
 8. DPMPTSP Kota Tangerang Selatan. DPMPTSP Kota Tangerang Selatan bertempat di Jl. Kencana I No.18, Lengkong Karya, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15310. [Alamat Website](http://dpmptsp.tangerangselatankota.go.id/).
 
 <div>
-    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Tangerang Selatan</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb0dfeb098a9%3A0x67cb15dc1472ee!2sDPMPTSP+Kota+Tangerang+Selatan!5e0!3m2!1sid!2sid!4v1561880844986!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-DPMPTSP Kabupaten Serang 4,0   (6)
-Kantor Hubungan Masyarakat 
+9. DPMPTSP Kabupaten Serang
 
-DPMPTSP Prov. Jabar 4,5   (16)
-Kantor Pemerintahan Regional · Jl. Windu, Jl. Pelajar Pejuang 45 No.26
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Serang</div>
+    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
 
-DPMPTSP Kabupaten Tangerang 2,1   (42)
-Kantor Pemerintah 
+10. DPMPTSP Kabupaten Tangerang
 
-DPMPTSP Kota Serang 4,4   (29)
-Kantor Perusahaan · Jalan Mayor Syafe'i No. 3
-Buka pukul 07.30
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Tangerang</div>
+    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
 
-DPMPTSP Kabupaten Bogor 4,3   (31)
-Kantor Pemerintahan Wilayah · Jl. Tegar Beriman No.40
-Badan Penanaman Modal dan Pelayanan Perizinan Terpadu Daerah Provinsi Lampung 4,5   (14)
-Jl. Cut Mutia No.25
+11. DPMPTSP Kota Serang. DPMPTSP Kota Serang bertempat di 
 
-DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU PROVINSI LAMPUNG 5,0  (3)
-Kantor Pemerintahan Daerah 
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Serang</div>
+    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
 
-DPMPTSP Kota Cilegon 4,3   (6)
-Kantor Pemerintah 
+12. DPMPTSP Kabupaten Bogor.  bertempat di Jl. Tegar Beriman No.40, Tengah, Cibinong, Bogor, Jawa Barat 16914. [Alamat Website](http://dpmptsp.bogorkab.go.id/).
 
-DPMPTSP KAB PANDEGLANG 3,3    (4)
-Kantor Perusahaan · jl. KH. abdul halim no.03
-Menampilkan hasil 1 - 16
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Bogor</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033669.1444402905!2d104.19149030186055!3d-5.415438610110794!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c1f2effffb29%3A0x60b45cde4873c472!2sDPMPTSP+Kabupaten+Bogor!5e0!3m2!1sid!2sid!4v1561882733062!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
+
+13. DPMPTSP Kabupaten Pandeglang. DPMPTSP Kabupaten Pandeglang bertempat di . [Alamat Website](http://dpmptsp.pandeglangkab.go.id/). 
+
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Pandeglang</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033669.1444743117!2d104.1914903!3d-5.4154386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4223264bfa72f5%3A0xdfaf211644a9e4cf!2sDPMPTSP+KAB+PANDEGLANG!5e0!3m2!1sid!2sid!4v1561882829219!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
