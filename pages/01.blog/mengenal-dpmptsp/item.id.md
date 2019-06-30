@@ -27,6 +27,8 @@ feed:
 
 ===
 
+[plugin:youtube](https://youtu.be/fZpOGNxndQg "Presentasi DPMPTSP Kabupaten Lampung Utara")
+
 DPMPTS ini dibawahi oleh BKPM (Badan Koordinasi Penanaman Modal). BKPM merupakan Lembaga Pemerintah Non Kementerian yang bertugas melaksanakan koordinasi kebijakan dan pelayanan di bidang penanaman modal berdasarkan ketentuan peraturan perundang-undangan. Sebagai penghubung utama antara dunia usaha dan pemerintah, BKPM diberi mandat untuk mendorong investasi langsung, baik dari dalam negeri maupun luar negeri, melalui penciptaan iklim investasi yang kondusif. Setelah BKPM dikembalikan statusnya menjadi lembaga setingkat kementerian di tahun 2009 dan melapor langsung kepada Presiden Republik Indonesia, maka sasaran lembaga ini tidak hanya untuk meningkatkan investasi yang lebih besar dari dalam maupun luar negeri, namun juga untuk mendapatkan investasi berkualitas yang dapat menggerakkan perekonomian Indonesia dan menyerap banyak tenaga kerja.
 
 ![](https://i.imgur.com/qFKyMmF.jpg "Kantor BKBM Pusat")
