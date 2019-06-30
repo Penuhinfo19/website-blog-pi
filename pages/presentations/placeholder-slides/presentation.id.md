@@ -7,7 +7,7 @@ hide_title: false
 **Jiwamu Adalah Seperti Singa !**
 
 > “Percayalah pada dirimu sendiri! Percayalah pada kemampuan Anda! Tanpa kepercayaan diri dan percaya kekuatan Anda sendiri, Anda tidak akan berhasil atau bahagia.”
--- Norman Vincent Peale
+> <nice>-- Norman Vincent Peale</nice>
 
 ---
 [style-color=green]
