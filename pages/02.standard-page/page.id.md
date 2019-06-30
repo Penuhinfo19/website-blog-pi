@@ -44,7 +44,7 @@ content:
         <div class="col-md-12 d-inline-flex flex-row justify-content-center">
           <form class="form-inline" action="http://service.hideoxy.com/index.php" method="post" role="form">
             <div class="form-group">
-              <input type="email" class="form-control form-control-lg w-100 px-3 shadow mx-auto" id="websiteURL" placeholder=""> </div>
+              <input type="text" class="form-control form-control-lg w-100 px-3 shadow mx-auto" id="websiteURL" placeholder=""> </div>
             <button type="submit" class="btn btn-primary btn-lg ml-3">Buka Blokir</button>
           </form>
         </div>
