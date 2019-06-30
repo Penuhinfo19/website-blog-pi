@@ -28,5 +28,3 @@ pagination: true
 
 # Blog **"Jendela"** Dunia
 **Tempat Berbagi Informasi & Inspirasi**
-
-[codepen id=rHIsa]
