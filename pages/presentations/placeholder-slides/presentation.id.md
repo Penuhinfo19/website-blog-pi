@@ -4,9 +4,7 @@ hide_git_sync_repo_link: false
 hide_title: false
 ---
 
-# MOTIVATION
-
-**Dirimu Adalah Singa !**
+**Jiwamu Adalah Seperti Singa !**
 
 > “Percayalah pada dirimu sendiri! Percayalah pada kemampuan Anda! Tanpa kepercayaan diri dan percaya kekuatan Anda sendiri, Anda tidak akan berhasil atau bahagia.”
 -- Norman Vincent Peale
