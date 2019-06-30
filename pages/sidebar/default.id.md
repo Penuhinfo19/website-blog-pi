@@ -19,4 +19,6 @@ plugins:
 
 <a href="https://www.exoclick.com/?login=EndiHariadi19"><img src="https://www.exoclick.com/banners/300x425.gif" border="0" class="rounded mx-auto d-block"></a>
 
-# Populer
+# Baru
+
+[plugin:page-inject](/blog/mp3-editing-software)
