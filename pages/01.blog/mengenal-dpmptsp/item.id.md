@@ -138,23 +138,23 @@ Berikut adalah berbagai lokasi DPMPTSP yang tersebar di berbagai Daerah / Provin
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Tangerang Selatan</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb0dfeb098a9%3A0x67cb15dc1472ee!2sDPMPTSP+Kota+Tangerang+Selatan!5e0!3m2!1sid!2sid!4v1561880844986!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-9. DPMPTSP Kabupaten Serang
+9. DPMPTSP Kabupaten Serang. DPMPTSP Kabupaten Serang bertempat di Kotabaru, Kec. Serang, Kota Serang, Banten 42112. [Alamat Website](http://simponie.serangkab.go.id/).
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Serang</div>
-    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033669.1444743117!2d104.1914903!3d-5.4154386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418b29f1f81805%3A0xde0eb5ad422bb9e4!2sDPMPTSP+Kabupaten+Serang!5e0!3m2!1sid!2sid!4v1561885525149!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-10. DPMPTSP Kabupaten Tangerang
+10. DPMPTSP Kabupaten Tangerang. DPMPTSP Kabupaten Tangerang bertempat di Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720. [Alamat Website](http://sipinter.tangerangkab.go.id/).
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kabupaten Tangerang</div>
-    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033676.0806004272!2d104.19145363427559!3d-5.413376855791786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4206ff45cf4d79%3A0x938ad61882bd1b7c!2sDPMPTSP+Kabupaten+Tangerang!5e0!3m2!1sid!2sid!4v1561885674144!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-11. DPMPTSP Kota Serang. DPMPTSP Kota Serang bertempat di 
+11. DPMPTSP Kota Serang. DPMPTSP Kota Serang bertempat di Jalan Mayor Syafe'i No. 3, Kotabaru, Kec. Serang, Kota Serang, Banten 42112. [Alamat Website]().
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Serang</div>
-    <iframe src=" " style="width:100%; height:100%;"></iframe></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033669.1444743117!2d104.1914903!3d-5.4154386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418b29726cfd11%3A0xef4b9a5795bee194!2sDPMPTSP+Kota+Serang!5e0!3m2!1sid!2sid!4v1561885649558!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
 12. DPMPTSP Kabupaten Bogor.  bertempat di Jl. Tegar Beriman No.40, Tengah, Cibinong, Bogor, Jawa Barat 16914. [Alamat Website](http://dpmptsp.bogorkab.go.id/).
 
