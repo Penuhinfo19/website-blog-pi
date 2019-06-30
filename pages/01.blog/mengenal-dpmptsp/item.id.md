@@ -9,6 +9,12 @@ taxonomy:
         - journal
         - text
 body_classes: 'header-animated header-dark header-transparent'
+header_image: true
+header_image_alt_text: 'Kantor BKBM Pusat'
+header_image_credit: 'by Endi Hariadi'
+summary:
+    enabled: '1'
+    format: short
 hide_from_post_list: false
 continue_link: false
 hide_git_sync_repo_link: false
