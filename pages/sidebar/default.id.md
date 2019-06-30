@@ -21,4 +21,4 @@ plugins:
 
 # Baru
 
-[plugin:title-inject](/blog/mp3-editing-software)
+[plugin:content-inject](/blog/mp3-editing-software)
