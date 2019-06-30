@@ -1,7 +1,6 @@
 ---
 title: 'Halaman ini adalah halaman rilex. Yups!!, Hidup Itu Perlu Motivasi, Rilex, dan Cerdas!'
 hide_git_sync_repo_link: false
-hide_title: false
 ---
 
 **Jiwamu Adalah Seperti Singa !**
