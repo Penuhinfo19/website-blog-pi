@@ -107,7 +107,7 @@ PT. Kumata Indonesia menyediakan layanan animasi satu atap mulai dari pembuatan 
 
 Berikut adalah beberapa video dan gambar (ilustrasi komik; _Comic Illustration_) animasi 2D hasil karya dari PT. Kumata Indonesia :
 
-[plugin:youtube](https://youtu.be/Yv5ffZAtDJo)
+[plugin:youtube](https://youtu.be/YtgxGl_HqaU)
 
 ---
 
