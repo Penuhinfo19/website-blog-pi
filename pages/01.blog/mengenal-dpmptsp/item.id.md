@@ -6,8 +6,8 @@ taxonomy:
     category:
         - blog
     tag:
-        - journal
-        - text
+        - Pemerintahan
+        - Berita
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
 header_image_alt_text: 'Kantor BKBM Pusat'
