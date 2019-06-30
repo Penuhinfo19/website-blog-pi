@@ -23,7 +23,7 @@ feed:
 ---
 
 > DPMPTSP adalah  lembaga yang memegang peranan dan fungsi strategis di bidang penyelenggaraan pelayanan perizinan terpadu. Sebagai penghubung utama antara dunia usaha dan pemerintah, DPMPTSP diberi mandat untuk mendorong investasi langsung, baik dari dalam negeri maupun luar negeri, melalui penciptaan iklim investasi yang kondusif.
-> -- <cite> Hasil Searching Google</cite>
+> <cite> Hasil Searching Google</cite>
 
 ===
 
