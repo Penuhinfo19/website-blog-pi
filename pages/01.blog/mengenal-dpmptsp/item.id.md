@@ -1,5 +1,5 @@
 ---
-title: 'Just Some Text Today'
+title: 'Mengenal DPMPTSP'
 published: true
 date: '23-06-2018 13:34'
 taxonomy:
@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - journal
         - text
+body_classes: 'header-animated header-dark header-transparent'
 hide_from_post_list: false
 continue_link: false
 hide_git_sync_repo_link: false
