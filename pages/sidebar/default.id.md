@@ -13,6 +13,6 @@ plugins:
 
 [twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="800"]
 
-[plugin:page-inject](/embedlycard)
+[plugin:page-inject](//blog/my-presentation)
 
 <a href="https://www.exoclick.com/?login=EndiHariadi19"><img src="https://www.exoclick.com/banners/300x425.gif" border="0"></a>
