@@ -19,7 +19,9 @@ feed:
     limit: 10
 ---
 
-Anda seorang yang sedang mencari perangkat lunak untuk mengedit sebuah file MP3? Anda akan membutuhkan software yang tepat. Mungkin Anda sudah mencoba mencari di Google dengan mengetikkan kata kunci editing audio atau editing mp3, tapi tahukah Anda bahwa ada beberapa perangkat lunak peng-edit MP3 yang paling banyak dicari orang? Berdasarkan sistem mesin pencarian Goolge saya akan sajikan beberapa editor MP3 yang wajib Anda miliki.
+Anda seorang yang sedang mencari perangkat lunak untuk mengedit sebuah file MP3? Anda akan membutuhkan software yang tepat. 
 
 ===
+
+Mungkin Anda sudah mencoba mencari di Google dengan mengetikkan kata kunci editing audio atau editing mp3, tapi tahukah Anda bahwa ada beberapa perangkat lunak peng-edit MP3 yang paling banyak dicari orang? Berdasarkan sistem mesin pencarian Goolge saya akan sajikan beberapa editor MP3 yang wajib Anda miliki.
 
