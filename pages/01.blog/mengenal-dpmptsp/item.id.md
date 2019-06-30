@@ -90,34 +90,46 @@ Fungsi BKPM :
 
 Berikut adalah berbagai lokasi DPMPTSP yang tersebar di berbagai Daerah / Provinsi berdasarkan hasil pencarian Google.
 
-1. DPMPTSP Provinsi Lampung. DPMPTSP Provinsi Lampung bertempat di Jl. Cut Mutia No.25, Gulak Galik, Kecamatan Teluk Betung Utara, Kota Bandar Lampung, Lampung 35212, [alamat Website](http://www.investasi.lampungprov.go.id/).
+1. DPMPTSP Pusat. DPMPTSP Pusat bertempat du Jl. Kebon Sirih No.18, RT.11/RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110. [Alamat Website]().
+
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Pusat</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f42e1a17750d%3A0x78776c97b058fd20!2sKantor+DPMPTSP!5e0!3m2!1sid!2sid!4v1561880448149!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
+    
+2. DPMPTSP Provinsi Lampung. DPMPTSP Provinsi Lampung bertempat di Jl. Cut Mutia No.25, Gulak Galik, Kecamatan Teluk Betung Utara, Kota Bandar Lampung, Lampung 35212. [Alamat Website](http://www.investasi.lampungprov.go.id/).
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Provinsi Lampung</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63551.99426829254!2d105.27784949072058!3d-5.41702176888269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40da3115a2a851%3A0xe0ecc37ebf52d951!2sDPMPTSP+Provinsi+Lampung!5e0!3m2!1sid!2sid!4v1561877935953!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-2. DPMPTSP Kota Bandar Lampung. DPMPTSP Kota Bandar Lampung bertempat di Jl. Sumur Batu, Kecamatan Teluk Betung Utara, Kota Bandar Lampung, Lampung 35212. [Google Map](). [alamat Website](https://dpmptsp.bandarlampungkota.go.id).
+3. DPMPTSP Kota Bandar Lampung. DPMPTSP Kota Bandar Lampung bertempat di Jl. Sumur Batu, Kecamatan Teluk Betung Utara, Kota Bandar Lampung, Lampung 35212. [Google Map](). [Alamat Website](https://dpmptsp.bandarlampungkota.go.id).
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandar Lampung</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63551.99426829254!2d105.27784949072058!3d-5.41702176888269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40db4ddb5cdfa5%3A0xfe3c27c1e79a8fe2!2sDPMPTSP+Kota+Bandar+Lampung!5e0!3m2!1sid!2sid!4v1561878522007!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-3. DPMPTSP Kota Cilegon. DPMPTSP Kota Cilegon bertempat di Jl. Pangeran Jayakarta Link Kenanga, Masigit, Kec. Jombang, Kota Cilegon, Banten 42411. [alamat Website](http://dpmptsp.cilegon.go.id:84/).
+4. DPMPTSP Kota Cilegon. DPMPTSP Kota Cilegon bertempat di Jl. Pangeran Jayakarta Link Kenanga, Masigit, Kec. Jombang, Kota Cilegon, Banten 42411. [Alamat Website](http://dpmptsp.cilegon.go.id:84/).
 
 <div>
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Cilegon</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63486.30790732488!2d106.02308577910156!3d-6.0092571999999915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418f4cd469d64d%3A0xa72a425ac653169d!2sDPMPTSP+Kota+Cilegon!5e0!3m2!1sid!2sid!4v1561878686707!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu 3,4    (41)
-Kantor Pemerintah · Jl. Cianjur No.34
+5. DPMPTSP Kota Bandung. DPMPTSP Kota Bandung bertempat di Jl. Cianjur No.34, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271. [Alamat Website](https://dpmptsp.bandung.go.id/).
 
-Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kota Bogor 4,5   (8)
-Kantor Pemerintah · Jl. Kapten Muslihat No.21
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63372.55546752442!2d107.59864317910157!3d-6.916322799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7c557413d8d%3A0xe472eec12cee6917!2sDinas+Penanaman+Modal+dan+Pelayanan+Terpadu+Satu+Pintu!5e0!3m2!1sid!2sid!4v1561879652540!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-DPMPTSP JABAR 4,6   (56)
+6. DPMPTSP Kota Bogor. DPMPTSP Kota Bogor bertempat di Jl. Tegar Beriman No.40, Tengah, Cibinong, Bogor, Jawa Barat 16914. [Alamat Website](http://perizinan.kotabogor.go.id/).
+
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033676.0806004272!2d104.19145363427559!3d-5.413376855791786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c1f2effffb29%3A0x60b45cde4873c472!2sDPMPTSP+Kabupaten+Bogor!5e0!3m2!1sid!2sid!4v1561880041633!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
+
+7. DPMPTSP JABAR 4,6   (56)
 Kantor Pemerintah · Jl. Windu No.26
 
-DPMPTSP Kota Tangerang Selatan 2,4    (8)
+8. DPMPTSP Kota Tangerang Selatan 2,4    (8)
 Kantor Pemerintah · Jl. Kencana I No.18
 
 DPMPTSP Kabupaten Serang 4,0   (6)
