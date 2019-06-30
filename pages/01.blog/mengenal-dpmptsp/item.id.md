@@ -126,11 +126,17 @@ Berikut adalah berbagai lokasi DPMPTSP yang tersebar di berbagai Daerah / Provin
     <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2033676.0806004272!2d104.19145363427559!3d-5.413376855791786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c1f2effffb29%3A0x60b45cde4873c472!2sDPMPTSP+Kabupaten+Bogor!5e0!3m2!1sid!2sid!4v1561880041633!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
-7. DPMPTSP JABAR 4,6   (56)
-Kantor Pemerintah · Jl. Windu No.26
+7. DPMPTSP Provinsi Jawa Barat. DPMPTSP Jawa Barat bertempat di Jl. Windu No.26, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263. [Alamat Website](https://dpmptsp.jabarprov.go.id/web/).
 
-8. DPMPTSP Kota Tangerang Selatan 2,4    (8)
-Kantor Pemerintah · Jl. Kencana I No.18
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e637d0927515%3A0x9c827b303ce7ba07!2sDPMPTSP+JABAR!5e0!3m2!1sid!2sid!4v1561880722269!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
+
+8. DPMPTSP Kota Tangerang Selatan. DPMPTSP Kota Tangerang Selatan bertempat di Jl. Kencana I No.18, Lengkong Karya, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15310. [Alamat Website](http://dpmptsp.tangerangselatankota.go.id/).
+
+<div>
+    <div style="width:600; height:450; frameborder=0; border:0; allowfullscreen:true">DPMPTSP Kota Bandung</div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207536.9692463125!2d105.7858738976452!3d-6.2288871498007365!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb0dfeb098a9%3A0x67cb15dc1472ee!2sDPMPTSP+Kota+Tangerang+Selatan!5e0!3m2!1sid!2sid!4v1561880844986!5m2!1sid!2sid" style="width:100%; height:100%;"></iframe></div>
 
 DPMPTSP Kabupaten Serang 4,0   (6)
 Kantor Hubungan Masyarakat 
