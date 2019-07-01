@@ -103,7 +103,6 @@ content:
       <div class="row">
         <div class="col-md-12">
           <form class="form-inline">
-              <p class="text-center">Seret dan lepas gambar ke dalam kolom atau Klik kolom untuk mengambil gambar di perangkat.</p>
             <div class="input-group input-group-lg w-100 d-inline-flex flex-row justify-content-center">
               <input id="file-input" type="file" class="form-control form-control-lg">
             </div>
