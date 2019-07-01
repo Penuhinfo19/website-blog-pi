@@ -59,10 +59,7 @@ content:
 </div>
 
 ---
-# [center]Tinjau Data Dalam Gambar[/center]
-METODE :
-1. Seret dan lepas gambar ke dalam kolom, atau
-2. Klik kolom untuk mengambil gambar di perangkat. 
+# [center]Tinjau Data Dalam Gambar[/center] 
 <div>
 	<!DOCTYPE html>
 <html>
@@ -101,6 +98,7 @@ METODE :
       <div class="row">
         <div class="col-md-12">
           <form class="form-inline">
+              <p>Seret dan lepas gambar ke dalam kolom atau Klik kolom untuk mengambil gambar di perangkat.</p>
             <div class="input-group input-group-lg w-100 d-inline-flex flex-row justify-content-center">
               <input id="file-input" type="file" class="form-control form-control-lg">
             </div>
