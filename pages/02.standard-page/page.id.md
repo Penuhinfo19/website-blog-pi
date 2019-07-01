@@ -135,7 +135,6 @@ content:
                     }
                 });
             }
-        }
         };
 
         var testFilePath = "file-input";
