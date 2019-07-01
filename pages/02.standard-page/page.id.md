@@ -60,6 +60,9 @@ content:
 
 ---
 # [center]Tinjau Data Dalam Gambar[/center]
+METODE :
+1. Seret dan lepas gambar ke dalam kolom, atau
+2. Klik kolom untuk mengambil gambar di perangkat. 
 <div>
 	<!DOCTYPE html>
 <html>
