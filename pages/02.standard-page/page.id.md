@@ -201,8 +201,6 @@ content:
     <script src="/exiftool/node_modules/exif-js/assets/js/Control.Geocoder.js"></script>
     <script type="text/javascript" src="/exiftool/node_modules/exif-js/thexifer.min.js"></script>
     
-    <div class="modal-backdrop fade in"></div>
-    
 </body>
 
 </html></div>
