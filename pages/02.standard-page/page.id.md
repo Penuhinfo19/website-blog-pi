@@ -76,6 +76,21 @@ content:
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <style>
+		.pac-container {
+    background-color: #FFF;
+    z-index: 20;
+    position: fixed;
+    display: inline-block;
+    float: left;
+}
+.modal{
+    z-index: 20;   
+}
+.modal-backdrop{
+    z-index: 10;        
+}
+		</style>
 </head>
 
 <body>
@@ -185,6 +200,8 @@ content:
     <script type="text/javascript" src="/exiftool/node_modules/exif-js/assets/js/bootstrap-typeahead.min.js"></script>
     <script src="/exiftool/node_modules/exif-js/assets/js/Control.Geocoder.js"></script>
     <script type="text/javascript" src="/exiftool/node_modules/exif-js/thexifer.min.js"></script>
+    
+    <div class="modal-backdrop fade in"></div>
     
 </body>
 
