@@ -11,7 +11,7 @@ plugins:
 
 [plugin:page-inject](/author)
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 33.3333%; padding-top: 120px;"><a href="https://github.community/" data-iframely-url="//cdn.iframe.ly/zLMI4XL"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<a class="embedly-card" href="https://github.community/"></a>
 
 [Twitter url="https://twitter.com/GitHubCommunity" height="800"]
 
