@@ -45,10 +45,44 @@ Fitur MP3DirectCut :
 
 **2. Audacity**
 
+Software Audacity merupakan seperangkat perkakas berkualitas untuk bekerja dengan berkas audio. Memang sesuai dengan tujuan Audacity yaitu untuk bekerja dengan beberapa lagu. Utilitas adalah multi-platform dan terutama dirancang untuk mengedit dan rekaman audio. Tapi itu dapat digunakan di arah yang berbeda, sebagai contoh, untuk membuat kursus audio pelatihan, untuk membuat nada dering ponsel, rekaman audio, digit dari kaset dan lebih banyak lagi. Seperti yang Anda lihat, perangkat lunak dapat berguna untuk tujuan yang berbeda, yang mungkin mengapa profesional sering menggunakannya untuk menerapkan ide-ide kreatif mereka.
 
-Audacity
-WavePad Audio Editor
-WavePad Audio Editor
+Fitur Audacity :
+
+1. Impor dan ekspor file WAV, MP3 (menggunakan encoder LAME MP3), Vorbis, FLAC dan format lainnya;
+2. Merekam dari mikrofon, line input dan sumber-sumber lain;
+3. Mencatat sambil mendengarkan trek yang ada;
+4. Merekam hingga 16 saluran sekaligus (membutuhkan multichannel sound card);
+5. Efek dan ekstensi yang disediakan dan dipasang secara terpisah (LADSPAatau dalam bahasa fungsional Nyquist);
+6. Indikator dari tingkat merekam dan pemutaran;
+7. Perubahan kecepatan dari tabungan lapangan;
+8. Perubahan pitch melestarikan tempo;
+9. Noise removal pada sampel;
+10. Spektral analisis menggunakan transformasi Fourier dengan berbagai bentuk jendela;
+11. Pemutaran banyak trek pada saat yang sama (tidak ada dukungan untuk multi — channel suara pemutaran hanya menggunakan dua saluran, yang dicampur semua trek);
+12. Pencampuran trek dengan karakteristik kualitas yang berbeda dengan konversi otomatis untuk karakteristik tertentu dari proyek secara real time;
+13. Hasil dapat disimpan dalam berbagai format yang disediakan oleh perpustakaan libsndfile.
+
+**3. WavePad Audio Editor**
+
+Sama seperti kedua software di atas, WavePad Audio Editor bekerja di Windows. Perangkat lunak ini memungkinkan Anda membuat dan mengedit suara dan rekaman audio lainnya. Anda dapat memotong, menyalin, paste bagian rekaman dan jika diperlukan, menambahkan efek seperti echo, amplifikasi dan pengurangan kebisingan.
+
+1. Suara fungsi Mengedit seperti cut, copy, paste, menghapus, menyisipkan, keheningan, autotrim dan banyak lagi. 
+2. Audio Termasuk Efek, memperkuat, menormalkan, equalizer, amplop, reverb, echo, kebalikan, sample rate konversi dan lebih 
+3. Khus termasuk mengangi Efek vokal, distorsi, chorus dan banyak lagi. 
+4. Batch memungkinkinkinkan anda untuk menerapkan efek dan/atau mengkonversi file sebagai fungsi tonggal. 
+5. Restorasi Audio fitur termasuk pengurang kebasan dan klik kopusan pop. 
+6. Perekam mendukung serta sukja keras suara diaklikan dan autotrim. 
+7. Membuat dan bekeja pada berkas audio pada satu waktu dan menyimpannya sebagai salah satu proyek. 
+8. Mendukung tingkat untuk sampel dari 6000 96000Hz, stereo atau mono, 8, 16, 24 atau 32 bit. 
+9. Pra-didefinisikan saran kualitas audio saat menyimpan file sepertia Kualitas dan Kualitas CD Radio. 
+10. Alat-alat yang mencakup analis spektral (FFT) dan sintesis (teks pidato). 
+11. Bebrand langsung dari berkas audio CD dan mengubahnya ke .file secara otomatis. 
+12. Kemampuan untuk bekeja dengan bekerapa berkas yang sama pada saat di layar terpisi. 
+13. Memungkinkan andda untuk mengatur kunci pengi dan ditugaskan makro. 
+14. Set berkas bookmark berserama beberapa saat anda bekeja.
+
+
 Nero Wave Editor
 Nero Wave Editor
 Mp3tag
