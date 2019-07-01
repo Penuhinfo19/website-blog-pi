@@ -15,9 +15,12 @@ taxonomy:
         - Tekhnologi
         - Software
 body_classes: 'header-animated header-dark header-transparent'
-header_image_alt_text: 'Wharf with birds, which blurs into the distance'
-header_image_credit: Unsplash
-header_image_creditlink: 'https://unsplash.com/'
+header_image: true
+header_image_alt_text: 'MP3 Audio Editor Gratis'
+header_image_credit: 'by Endi Hariadi'
+summary:
+    enabled: '1'
+    format: short
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
