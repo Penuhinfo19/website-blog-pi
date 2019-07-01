@@ -92,16 +92,7 @@ content:
 		</style>
 </head>
 
-<body>
-  <div class="py-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <p class="text-center">Tool online untuk melihat data dan informasi pada gambar (yang tertanam dalam metadata gambar). Ini dapat berupa; jenis dan merk kamera saat foto diambil, pengaturan editing, tanggal pengambilan, pengunggah foto asli, informasi tanggal dan lokasi, dan lokasi gambar (dapat dilacak lokasinya), dan sebagainya.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+<body>		
   <div class="py-5">
     <div class="container">
       <div class="row">
@@ -123,12 +114,6 @@ content:
                 var make = EXIF.getTag(this, "Make"),
                     model = EXIF.getTag(this, "Model");
                 alert("I was taken by a " + make + " " + model);
-            });
-        }
-
-        document.getElementById("file-input").onclick = function() {
-            EXIF.getData(this, function() {
-                alert(EXIF.pretty(this));
             });
         }
 
@@ -199,6 +184,17 @@ content:
     <script type="text/javascript" src="/exiftool/node_modules/exif-js/assets/js/bootstrap-typeahead.min.js"></script>
     <script src="/exiftool/node_modules/exif-js/assets/js/Control.Geocoder.js"></script>
     <script type="text/javascript" src="/exiftool/node_modules/exif-js/thexifer.min.js"></script>
+    
+    <script>
+
+	/*
+	* Pass PHP Vars To Javascript (HEADER)
+	*/
+
+	var pHpServerHttpHost = 'penuhinfo.com'
+
+	var exifertags = ["EXIFMake","EXIFModel","EXIFLensMake","EXIFLensModel","EXIFLensSerialNumber","EXIFSoftware","EXIFCreateDate","EXIFDateTimeOriginal","EXIFModifyDate","EXIFArtist","EXIFOwnerName","EXIFCopyright","EXIFImageDescription","EXIFUserComment","EXIFISO","EXIFFNumber","EXIFApertureValue","EXIFMaxApertureValue","EXIFShutterSpeedValue","EXIFExposureTime","EXIFExposureProgram","EXIFExposureCompensation","EXIFExposureMode","EXIFMeteringMode","EXIFFlash","EXIFFocalLengthIn35mmFormat","EXIFFocalLength","EXIFWhiteBalance","EXIFXResolution","EXIFYResolution","EXIFOrientation","EXIFColorSpace","EXIFInteropIndex","IPTCFileFormat","IPTCBy-line","IPTCBy-lineTitle","IPTCCopyrightNotice","IPTCWriter-Editor","IPTCKeywords","IPTCObjectName","IPTCHeadline","IPTCCaption-Abstract","IPTCCountry-PrimaryLocationName","IPTCProvince-State","IPTCCity","IPTCSub-location","EXIFGPSVersionID","EXIFGPSLatitudeRef","EXIFGPSLatitude","EXIFGPSLongitudeRef","EXIFGPSLongitude","EXIFGPSAltitudeRef","EXIFGPSAltitude","EXIFGPSSatellites","EXIFGPSStatus","EXIFGPSMeasureMode","EXIFGPSDOP","EXIFGPSSpeedRef","EXIFGPSSpeed","EXIFGPSTrackRef","EXIFGPSTrack","EXIFGPSImgDirectionRef","EXIFGPSImgDirection","EXIFGPSMapDatum","EXIFGPSDestLatitudeRef","EXIFGPSDestLatitude","EXIFGPSDestLongitudeRef","EXIFGPSDestLongitude","EXIFGPSDestBearingRef","EXIFGPSDestBearing","EXIFGPSDestDistanceRef","EXIFGPSDestDistance","EXIFGPSDifferential","EXIFGPSTimeStamp","XMPCreator","XMPRights","XMPTitle","XMPDescription","XMPRating","XMPLabel","XMPLocation","XMPAuthorsPosition","XMPCaptionWriter","XMPCategory","XMPColorMode","XMPCountry","XMPState","XMPCity","XMPCredit","XMPDateCreated","XMPHeadline","XMPICCProfileName","XMPInstructions","XMPLegacyIPTCDigest","XMPSidecarForExtension","XMPSource","XMPSupplementalCategories","XMPTransmissionReference","XMPUrgency","EXIFCompression","XMPCaptureSoftware","XMPCroppedAreaImageHeightPixels","XMPCroppedAreaImageWidthPixels","XMPCroppedAreaLeftPixels","XMPCroppedAreaTopPixels","XMPExposureLockUsed","XMPFirstPhotoDate","XMPFullPanoHeightPixels","XMPFullPanoWidthPixels","XMPInitialHorizontalFOVDegrees","XMPInitialViewHeadingDegrees","XMPInitialViewPitchDegrees","XMPInitialViewRollDegrees","XMPLargestValidInteriorRectHeight","XMPLargestValidInteriorRectLeft","XMPLargestValidInteriorRectTop","XMPLargestValidInteriorRectWidth","XMPLastPhotoDate","XMPPoseHeadingDegrees","XMPPosePitchDegrees","XMPPoseRollDegrees","XMPProjectionType","XMPSourcePhotosCount","XMPStitchingSoftware","XMPUsePanoramaViewer","QuickTimeEncoder","QuickTimeHandlerType","QuickTimeVideoFrameRate","QuickTimePixelAspectRatio","QuickTimeColorRepresentation","QuickTimeBitDepth","QuickTimeCompressorName","QuickTimeYResolution","QuickTimeXResolution","QuickTimeSourceImageHeight","QuickTimeSourceImageWidth","QuickTimeCompressorID","QuickTimeOpColor","QuickTimeGraphicsMode","QuickTimeMediaLanguageCode","QuickTimeMediaDuration","QuickTimeMediaTimeScale","QuickTimeMediaModifyDate","QuickTimeMediaCreateDate","QuickTimeMediaHeaderVersion","QuickTimeImageHeight","QuickTimeImageWidth","QuickTimeMatrixStructure","QuickTimeTrackVolume","QuickTimeTrackLayer","QuickTimeTrackDuration","QuickTimeTrackID","QuickTimeTrackModifyDate","QuickTimeTrackCreateDate","QuickTimeTrackHeaderVersion","QuickTimeNextTrackID","QuickTimeCurrentTime","QuickTimeSelectionDuration","QuickTimeSelectionTime","QuickTimePosterTime","QuickTimePreviewDuration","QuickTimePreviewTime","QuickTimePreferredVolume","QuickTimePreferredRate","QuickTimeDuration","QuickTimeTimeScale","QuickTimeModifyDate","QuickTimeCreateDate","QuickTimeMovieHeaderVersion","QuickTimeMovieDataOffset","QuickTimeMovieDataSize","QuickTimeCompatibleBrands","QuickTimeMinorVersion","QuickTimeMajorBrand"];
+	</script>
     
 </body>
 
