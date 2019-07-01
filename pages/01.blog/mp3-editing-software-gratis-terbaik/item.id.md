@@ -16,6 +16,7 @@ taxonomy:
         - Software
 body_classes: 'header-animated header-dark header-transparent'
 header_image: true
+header_image_file: /blog/mp3-editing-software-gratis-terbaik/mp3editing.png
 header_image_alt_text: 'MP3 Audio Editor Gratis'
 header_image_credit: 'by Endi Hariadi'
 summary:
