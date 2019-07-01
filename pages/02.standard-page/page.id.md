@@ -69,8 +69,7 @@ content:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Pembaca Data Gambar</title>
   <meta name="description" content="Alat Online untuk melihat data Exif, yaitu data pelengkap di balik sebuah file gambar, seperti; pengaturan kamera, kapan diambil, lokasi pengambilan gambar, pemilik gambar, dan sebagainya.">
-  <meta name="keywords" content="Exif Image, Endi Hariadi, Tool Online">
-			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">	
+  <meta name="keywords" content="Exif Image, Endi Hariadi, Tool Online">	
 			<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="">
     <link rel="stylesheet" href="/exiftool/node_modules/exif-js/assets/css/Control.Geocoder.css" />
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
