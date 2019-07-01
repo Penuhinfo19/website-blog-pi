@@ -43,6 +43,8 @@ Fitur MP3DirectCut :
 12. Visualisasi VU meter dan bitrate
 13. Penggunaan baris perintah, dukungan Unicode 
 
+---
+
 **2. Audacity**
 
 Software Audacity merupakan seperangkat perkakas berkualitas untuk bekerja dengan berkas audio. Memang sesuai dengan tujuan Audacity yaitu untuk bekerja dengan beberapa lagu. Utilitas adalah multi-platform dan terutama dirancang untuk mengedit dan rekaman audio. Tapi itu dapat digunakan di arah yang berbeda, sebagai contoh, untuk membuat kursus audio pelatihan, untuk membuat nada dering ponsel, rekaman audio, digit dari kaset dan lebih banyak lagi. Seperti yang Anda lihat, perangkat lunak dapat berguna untuk tujuan yang berbeda, yang mungkin mengapa profesional sering menggunakannya untuk menerapkan ide-ide kreatif mereka.
@@ -63,14 +65,18 @@ Fitur Audacity :
 12. Pencampuran trek dengan karakteristik kualitas yang berbeda dengan konversi otomatis untuk karakteristik tertentu dari proyek secara real time;
 13. Hasil dapat disimpan dalam berbagai format yang disediakan oleh perpustakaan libsndfile.
 
+---
+
 **3. WavePad Audio Editor**
 
 Sama seperti kedua software di atas, WavePad Audio Editor bekerja di Windows. Perangkat lunak ini memungkinkan Anda membuat dan mengedit suara dan rekaman audio lainnya. Anda dapat memotong, menyalin, paste bagian rekaman dan jika diperlukan, menambahkan efek seperti echo, amplifikasi dan pengurangan kebisingan.
 
+Fitur WavePad Audio Editor :
+
 1. Suara fungsi Mengedit seperti cut, copy, paste, menghapus, menyisipkan, keheningan, autotrim dan banyak lagi. 
 2. Audio Termasuk Efek, memperkuat, menormalkan, equalizer, amplop, reverb, echo, kebalikan, sample rate konversi dan lebih 
 3. Khus termasuk mengangi Efek vokal, distorsi, chorus dan banyak lagi. 
-4. Batch memungkinkinkinkan anda untuk menerapkan efek dan/atau mengkonversi file sebagai fungsi tonggal. 
+4. Batch memungkinkan anda untuk menerapkan efek dan/atau mengkonversi file sebagai fungsi tonggal. 
 5. Restorasi Audio fitur termasuk pengurang kebasan dan klik kopusan pop. 
 6. Perekam mendukung serta sukja keras suara diaklikan dan autotrim. 
 7. Membuat dan bekeja pada berkas audio pada satu waktu dan menyimpannya sebagai salah satu proyek. 
@@ -81,6 +87,10 @@ Sama seperti kedua software di atas, WavePad Audio Editor bekerja di Windows. Pe
 12. Kemampuan untuk bekeja dengan bekerapa berkas yang sama pada saat di layar terpisi. 
 13. Memungkinkan andda untuk mengatur kunci pengi dan ditugaskan makro. 
 14. Set berkas bookmark berserama beberapa saat anda bekeja.
+
+---
+
+**4. Nero Wave Editor**
 
 
 Nero Wave Editor
