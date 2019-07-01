@@ -6,9 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - Tekhnologi
-        - Usaha
-        - Bisnis
+        - Desain
 external_links:
     process: true
     title: true
