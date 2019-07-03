@@ -7,7 +7,7 @@ date: '24-06-2019 19:55'
 visible: false
 ---
 
-![Endi Hariadi](https://i.imgur.com/MVxhvoC.jpg "About Me")
+![](https://i.imgur.com/MVxhvoC.jpg "About Me")
 
 Ini adalah saya, Endi Hariadi. Dukung saya untuk terus mempertahankan webblog ini.
 
