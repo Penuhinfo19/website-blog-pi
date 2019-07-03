@@ -9,7 +9,7 @@ plugins:
 
 # Author
 
-![](/author)
+[](/author)
 
 <a class="embedly-card" href="https://github.community/"></a>
 
