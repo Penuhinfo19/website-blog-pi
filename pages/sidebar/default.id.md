@@ -9,7 +9,7 @@ plugins:
 
 # Author
 
-<a class="embedly-card" href="https://penuhinfo.com/author1"></a>
+<a class="embedly-card" href="https://penuhinfo.com/author"></a>
 
 <a class="embedly-card" href="https://github.community/"></a>
 
