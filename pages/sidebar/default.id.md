@@ -9,7 +9,7 @@ plugins:
 
 # Author
 
-[plugin:page-inject](/author )
+[plugin:page-inject](/author)
 
 <a class="embedly-card" href="https://github.community/"></a>
 
