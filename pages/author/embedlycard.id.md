@@ -9,6 +9,6 @@ visible: false
 
 ![Endi Hariadi](https://i.imgur.com/MVxhvoC.jpg "About Me")
 [center]
-Ini adalah saya, Endi Hariadi. Mohon maaf saya membelakangi Anda, karena saya pemalu. Tapi saya ingin berbagi sesuatu yang bermanfaat. Dukung saya untuk terus mempertahankan webblog ini.
+Ini adalah saya, Endi Hariadi. Dukung saya untuk terus mempertahankan webblog ini.
 [/center]
 [Menyumbang](https://money.yandex.ru/to/410018716388973)
