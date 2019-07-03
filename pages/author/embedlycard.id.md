@@ -8,7 +8,7 @@ visible: false
 ---
 
 ![Endi Hariadi](https://i.imgur.com/MVxhvoC.jpg "About Me")
-[center]
+
 Ini adalah saya, Endi Hariadi. Dukung saya untuk terus mempertahankan webblog ini.
-[/center]
+
 [Menyumbang](https://money.yandex.ru/to/410018716388973)
