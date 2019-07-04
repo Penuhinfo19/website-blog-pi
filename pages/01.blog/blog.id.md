@@ -1,5 +1,5 @@
 ---
-title: Penuhinfo
+title: Welcome
 metadata:
     refresh: '30'
     generator: 'Penuh Info'
