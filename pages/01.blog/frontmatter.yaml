@@ -1,17 +1,1 @@
-published: true
-slug: blog
-default_lang: id
-author:
-  name: 'Endi Hariadi'
-  email: admin@penuhinfo.com
-taxonomies:
-  - 'category,tag'
-summary:
-  enabled: 'true'
-  format: short
-  size: '300'
-  delimiter: '==='
-routes: /
-blog:
-  route: /blog
-ssl: true
+{  }
