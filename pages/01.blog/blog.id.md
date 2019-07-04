@@ -6,7 +6,10 @@ metadata:
     '''keywords''': '''Info'', ''Full'', ''Blog'', ''Website'', ''Berita'', ''Video'', ''Gambar'', ''Facebook'', ''Twitter'', ''Uang'', ''Penghasilan'', ''Usaha'', ''Internasional'', ''Indonesia'''
     '''author''': '''Endi Hariadi'''
     '''robots''': '''noindex'', ''nofollow'''
-    '''yandex-verification''': '''c0824907759d5468'''
+    '''http-equiv''': '''Content-Type'''
+    '''content''': '''text/html'''
+    '''charset''': '''UTF-8'''
+    '''Verification''': '''c0824907759d5468'''
 ---
 
 # Blog **"Jendela"** Dunia
