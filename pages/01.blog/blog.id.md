@@ -2,7 +2,7 @@
 title: Welcome
 metadata:
     refresh: '30'
-    generator: 'Penuh Info'
+    generator: 'Penuh info'
     description: 'Tempat Berbagi Informasi & Inspirasi'
     keywords: 'HTML, CSS, XML, JavaScript'
     author: 'Endi Hariadi'
