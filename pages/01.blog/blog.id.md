@@ -1,7 +1,6 @@
 ---
 title: Welcome
 metadata:
-    refresh: '30'
     generator: 'Penuh info'
     description: 'Tempat Berbagi Informasi & Inspirasi'
     keywords: 'HTML, CSS, XML, JavaScript'
